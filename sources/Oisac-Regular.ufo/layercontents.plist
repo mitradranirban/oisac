@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>flat</string>
+      <string>glyphs.flat</string>
+    </array>
+    <array>
+      <string>peak</string>
+      <string>glyphs.peak</string>
+    </array>
+    <array>
+      <string>Black</string>
+      <string>glyphs.B_lack</string>
+    </array>
+    <array>
+      <string>flat#1</string>
+      <string>glyphs.flat#1</string>
+    </array>
+    <array>
+      <string>peak#1</string>
+      <string>glyphs.peak#1</string>
+    </array>
+  </array>
+</plist>
