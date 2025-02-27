@@ -1,100 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
   <advance width="512"/>
   <unicode hex="0022"/>
   <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" yScale="0.5" xOffset="123" yOffset="479.5"/>
+    <component base="component0" yScale="0.5" xOffset="329" yOffset="486"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.black-foundry.variable-components</key>
-      <array>
-        <dict>
-          <key>base</key>
-          <string>space</string>
-          <key>location</key>
-          <dict/>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <integer>1</integer>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>3</integer>
-            <key>translateY</key>
-            <integer>-18</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>component0</string>
-          <key>location</key>
-          <dict/>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <real>0.5818700884167993</real>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>131</integer>
-            <key>translateY</key>
-            <real>560.6525356058651</real>
-          </dict>
-        </dict>
-        <dict>
-          <key>base</key>
-          <string>component0</string>
-          <key>location</key>
-          <dict/>
-          <key>transformation</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scaleX</key>
-            <integer>1</integer>
-            <key>scaleY</key>
-            <real>0.581870088416799</real>
-            <key>skewX</key>
-            <integer>0</integer>
-            <key>skewY</key>
-            <integer>0</integer>
-            <key>tCenterX</key>
-            <integer>0</integer>
-            <key>tCenterY</key>
-            <integer>0</integer>
-            <key>translateX</key>
-            <integer>329</integer>
-            <key>translateY</key>
-            <real>560.6525356058652</real>
-          </dict>
-        </dict>
-      </array>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -6,15 +6,14 @@ Weight: Thin
 Copyright: Copyright (c) 2025, Dr Anirban Mitra
 UComments: "2025-1-26: Created with FontForge (http://fontforge.org)"
 Version: 0.100
-StyleMapFamilyName: Oisac Regular
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
 Ascent: 820
 Descent: 204
 InvalidEm: 0
-UFOAscent: 819
-UFODescent: -205
+UFOAscent: 820
+UFODescent: -204
 LayerCount: 7
 Layer: 0 0 "Back" 1
 Layer: 1 0 "public.default" 0 "glyphs"
@@ -23,15 +22,15 @@ Layer: 3 0 "peak" 1 "glyphs.peak"
 Layer: 4 0 "Black" 1 "glyphs.B_lack"
 Layer: 5 0 "flat#1" 1 "glyphs.flat#1"
 Layer: 6 0 "peak#1" 1 "glyphs.peak#1"
-StyleMap: 0x0040
+StyleMap: 0x0000
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1738301108
-ModificationTime: 1738301349
-PfmFamily: 49
-TTFWeight: 100
+CreationTime: 1740635816
+ModificationTime: 1740640954
+PfmFamily: 16
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -46,27 +45,44 @@ OS2WinDescent: 306
 OS2WinDOffset: 0
 HheadAscent: 1230
 HheadAOffset: 0
-HheadDescent: 306
+HheadDescent: -306
 HheadDOffset: 0
-OS2CapHeight: 750
-OS2XHeight: 480
+OS2CapHeight: 768
+OS2XHeight: 512
 OS2Vendor: 'anir'
-MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "Copyright (c) 2025, Dr Anirban Mitra" "" "" "" "" "Version 0.100" "" "" "Dr Anirban Mitra" "Dr Anirban Mitra" "A Color Variable Caps only Font with LED Display Look " "https://fonts.atipra.in" "https://github.com/mitradranirban" "This font is released under SIL Open Font Licence Version 1.1. The Licence is available with a FAQ at https://openfontlicense.org" "https://openfontlicense.org"
+PickledDataWithLists: "(dp0
+Vxyz.fontra.lineMetricsHorizontalLayout.zones
+p1
+(dp2
+Vascender
+p3
+I16
+sVbaseline
+p4
+I-16
+sVcapHeight
+p5
+I16
+sVdescender
+p6
+I-16
+sVxHeight
+p7
+I16
+ss."
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
-AntiAlias: 0
+DisplaySize: -72
+AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 8 2
-BeginPrivate: 0
-EndPrivate
-BeginChars: 55 55
+WinInfo: 0 18 7
+BeginChars: 164 164
 
 StartChar: .notdef
-Encoding: 0 -1 0
+Encoding: 55 0 0
 GlifName: _notdef
 Width: 512
 VWidth: 0
@@ -103,7 +119,7 @@ ss."
 EndChar
 
 StartChar: A
-Encoding: 1 65 1
+Encoding: 28 65 1
 GlifName: A_
 Width: 512
 VWidth: 0
@@ -131,7 +147,7 @@ ss."
 EndChar
 
 StartChar: B
-Encoding: 2 66 2
+Encoding: 29 66 2
 GlifName: B_
 Width: 512
 VWidth: 0
@@ -160,7 +176,7 @@ ss."
 EndChar
 
 StartChar: C
-Encoding: 3 67 3
+Encoding: 30 67 3
 GlifName: C_
 Width: 512
 VWidth: 0
@@ -187,7 +203,7 @@ ss."
 EndChar
 
 StartChar: D
-Encoding: 4 68 4
+Encoding: 31 68 4
 GlifName: D_
 Width: 512
 VWidth: 0
@@ -212,7 +228,7 @@ ss."
 EndChar
 
 StartChar: E
-Encoding: 5 69 5
+Encoding: 32 69 5
 GlifName: E_
 Width: 512
 VWidth: 0
@@ -241,7 +257,7 @@ ss."
 EndChar
 
 StartChar: F
-Encoding: 6 70 6
+Encoding: 33 70 6
 GlifName: F_
 Width: 512
 VWidth: 0
@@ -268,7 +284,7 @@ ss."
 EndChar
 
 StartChar: G
-Encoding: 7 71 7
+Encoding: 34 71 7
 GlifName: G_
 Width: 512
 VWidth: 0
@@ -297,7 +313,7 @@ ss."
 EndChar
 
 StartChar: H
-Encoding: 8 72 8
+Encoding: 35 72 8
 GlifName: H_
 Width: 512
 VWidth: 0
@@ -324,7 +340,7 @@ ss."
 EndChar
 
 StartChar: I
-Encoding: 9 73 9
+Encoding: 36 73 9
 GlifName: I_
 Width: 512
 VWidth: 0
@@ -351,7 +367,7 @@ ss."
 EndChar
 
 StartChar: J
-Encoding: 10 74 10
+Encoding: 37 74 10
 GlifName: J_
 Width: 512
 VWidth: 0
@@ -375,7 +391,7 @@ ss."
 EndChar
 
 StartChar: K
-Encoding: 11 75 11
+Encoding: 38 75 11
 GlifName: K_
 Width: 512
 VWidth: 0
@@ -399,7 +415,7 @@ ss."
 EndChar
 
 StartChar: L
-Encoding: 12 76 12
+Encoding: 39 76 12
 GlifName: L_
 Width: 512
 VWidth: 0
@@ -423,7 +439,7 @@ ss."
 EndChar
 
 StartChar: M
-Encoding: 13 77 13
+Encoding: 40 77 13
 GlifName: M_
 Width: 512
 VWidth: 0
@@ -449,7 +465,7 @@ ss."
 EndChar
 
 StartChar: N
-Encoding: 14 78 14
+Encoding: 41 78 14
 GlifName: N_
 Width: 512
 VWidth: 0
@@ -475,7 +491,7 @@ ss."
 EndChar
 
 StartChar: O
-Encoding: 15 79 15
+Encoding: 42 79 15
 GlifName: O_
 Width: 512
 VWidth: 0
@@ -503,7 +519,7 @@ ss."
 EndChar
 
 StartChar: P
-Encoding: 16 80 16
+Encoding: 43 80 16
 GlifName: P_
 Width: 512
 VWidth: 0
@@ -530,7 +546,7 @@ ss."
 EndChar
 
 StartChar: Q
-Encoding: 17 81 17
+Encoding: 44 81 17
 GlifName: Q_
 Width: 512
 VWidth: 0
@@ -559,7 +575,7 @@ ss."
 EndChar
 
 StartChar: R
-Encoding: 18 82 18
+Encoding: 45 82 18
 GlifName: R_
 Width: 512
 VWidth: 0
@@ -587,7 +603,7 @@ ss."
 EndChar
 
 StartChar: S
-Encoding: 19 83 19
+Encoding: 46 83 19
 GlifName: S_
 Width: 512
 VWidth: 0
@@ -613,7 +629,7 @@ ss."
 EndChar
 
 StartChar: T
-Encoding: 20 84 20
+Encoding: 47 84 20
 GlifName: T_
 Width: 512
 VWidth: 0
@@ -637,7 +653,7 @@ ss."
 EndChar
 
 StartChar: U
-Encoding: 21 85 21
+Encoding: 48 85 21
 GlifName: U_
 Width: 512
 VWidth: 0
@@ -663,7 +679,7 @@ ss."
 EndChar
 
 StartChar: V
-Encoding: 22 86 22
+Encoding: 49 86 22
 GlifName: V_
 Width: 512
 VWidth: 0
@@ -687,7 +703,7 @@ ss."
 EndChar
 
 StartChar: W
-Encoding: 23 87 23
+Encoding: 50 87 23
 GlifName: W_
 Width: 512
 VWidth: 0
@@ -713,7 +729,7 @@ ss."
 EndChar
 
 StartChar: X
-Encoding: 24 88 24
+Encoding: 51 88 24
 GlifName: X_
 Width: 512
 VWidth: 0
@@ -737,7 +753,7 @@ ss."
 EndChar
 
 StartChar: Y
-Encoding: 25 89 25
+Encoding: 52 89 25
 GlifName: Y_
 Width: 512
 VWidth: 0
@@ -760,7 +776,7 @@ ss."
 EndChar
 
 StartChar: Z
-Encoding: 26 90 26
+Encoding: 53 90 26
 GlifName: Z_
 Width: 512
 VWidth: 0
@@ -786,7 +802,7 @@ ss."
 EndChar
 
 StartChar: asterisk
-Encoding: 27 42 27
+Encoding: 5 42 27
 GlifName: asterisk
 Width: 512
 VWidth: 0
@@ -794,14 +810,14 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 51 32 N 1 0 0 1 3 -18 2
-Refer: 31 -1 N 1 0 0 1 216 2 2
-Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 1 0 0 0.598563 216 159.363 2
+Refer: 31 -1 N 1 0 0 0.637591 216 392.725 2
 Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
 Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
-Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 397.16 7.74371 2
-Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
-Refer: 31 -1 N 0.643447 -0.709068 0.257814 0.84246 90.2595 48.2422 2
-Refer: 31 -1 N 0.682045 0.497351 -0.338287 0.869553 194 404 2
+Refer: 31 -1 N 0.815466 0.283689 -0.404462 0.495993 419.36 153.96 2
+Refer: 31 -1 N 0.558153 -0.518039 0.334562 0.514128 266.105 438.631 2
+Refer: 31 -1 N 0.781395 -0.423429 0.313086 0.503086 62.9136 172.708 2
+Refer: 31 -1 N 0.692857 0.273794 -0.343649 0.478694 193.676 411.712 2
 PickledDataWithLists: "(dp0
 Vxyz.fontra.layer-names
 p1
@@ -814,13 +830,23 @@ ss."
 EndChar
 
 StartChar: at
-Encoding: 28 64 28
+Encoding: 27 64 28
 GlifName: at
 Width: 512
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 386 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 745 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
 PickledDataWithLists: "(dp0
 Vcom.black-foundry.variable-components
 p1
@@ -1114,7 +1140,7 @@ ss."
 EndChar
 
 StartChar: colon
-Encoding: 29 58 29
+Encoding: 21 58 29
 GlifName: colon
 Width: 512
 VWidth: 0
@@ -1136,7 +1162,7 @@ ss."
 EndChar
 
 StartChar: comma
-Encoding: 30 44 30
+Encoding: 7 44 30
 GlifName: comma
 Width: 512
 VWidth: 0
@@ -1157,7 +1183,7 @@ ss."
 EndChar
 
 StartChar: component0
-Encoding: 31 -1 31
+Encoding: 56 -1 31
 GlifName: component0
 Width: 80
 VWidth: 0
@@ -1214,7 +1240,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 32 56 32
+Encoding: 19 56 32
 GlifName: eight
 Width: 512
 VWidth: 0
@@ -1244,7 +1270,7 @@ ss."
 EndChar
 
 StartChar: equal
-Encoding: 33 61 33
+Encoding: 24 61 33
 GlifName: equal
 Width: 512
 VWidth: 0
@@ -1266,7 +1292,7 @@ ss."
 EndChar
 
 StartChar: exclam
-Encoding: 34 33 34
+Encoding: 1 33 34
 GlifName: exclam
 Width: 512
 VWidth: 0
@@ -1288,7 +1314,7 @@ ss."
 EndChar
 
 StartChar: five
-Encoding: 35 53 35
+Encoding: 16 53 35
 GlifName: five
 Width: 512
 VWidth: 0
@@ -1316,7 +1342,7 @@ ss."
 EndChar
 
 StartChar: four
-Encoding: 36 52 36
+Encoding: 15 52 36
 GlifName: four
 Width: 512
 VWidth: 0
@@ -1341,7 +1367,7 @@ ss."
 EndChar
 
 StartChar: greater
-Encoding: 37 62 37
+Encoding: 25 62 37
 GlifName: greater
 Width: 512
 VWidth: 0
@@ -1363,7 +1389,7 @@ ss."
 EndChar
 
 StartChar: hyphen
-Encoding: 38 45 38
+Encoding: 8 45 38
 GlifName: hyphen
 Width: 512
 VWidth: 0
@@ -1384,7 +1410,7 @@ ss."
 EndChar
 
 StartChar: less
-Encoding: 39 60 39
+Encoding: 23 60 39
 GlifName: less
 Width: 512
 VWidth: 0
@@ -1406,7 +1432,7 @@ ss."
 EndChar
 
 StartChar: nine
-Encoding: 40 57 40
+Encoding: 20 57 40
 GlifName: nine
 Width: 512
 VWidth: 0
@@ -1435,7 +1461,7 @@ ss."
 EndChar
 
 StartChar: one
-Encoding: 41 49 41
+Encoding: 12 49 41
 GlifName: one
 Width: 512
 VWidth: 0
@@ -1457,7 +1483,7 @@ ss."
 EndChar
 
 StartChar: period
-Encoding: 42 46 42
+Encoding: 9 46 42
 GlifName: period
 Width: 512
 VWidth: 0
@@ -1478,13 +1504,18 @@ ss."
 EndChar
 
 StartChar: plus
-Encoding: 43 43 43
+Encoding: 6 43 43
 GlifName: plus
 Width: 512
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.5 218 183.25 2
+Refer: 31 -1 N 1 0 0 0.5 216 403.25 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
 PickledDataWithLists: "(dp0
 Vcom.black-foundry.variable-components
 p1
@@ -1625,7 +1656,7 @@ ss."
 EndChar
 
 StartChar: question
-Encoding: 44 63 44
+Encoding: 26 63 44
 GlifName: question
 Width: 512
 VWidth: 0
@@ -1650,13 +1681,16 @@ ss."
 EndChar
 
 StartChar: quotedbl
-Encoding: 45 34 45
+Encoding: 2 34 45
 GlifName: quotedbl
 Width: 512
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.5 123 479.5 2
+Refer: 31 -1 N 1 0 0 0.5 329 486 2
 PickledDataWithLists: "(dp0
 Vcom.black-foundry.variable-components
 p1
@@ -1669,96 +1703,108 @@ p5
 sVlocation
 p6
 (dp7
-sa(dp8
-g4
-Vcomponent0
-p9
-sg6
-(dp10
-Vbevel
-p11
-I45
-sVwidth
-p12
-I400
-ssVtransformation
-p13
-(dp14
+sVtransformation
+p8
+(dp9
 Vrotation
-p15
+p10
 I0
 sVscaleX
-p16
+p11
 I1
 sVscaleY
-p17
-F0.4757672713851911
+p12
+I1
 sVskewX
-p18
+p13
 I0
 sVskewY
-p19
+p14
 I0
 sVtCenterX
-p20
+p15
 I0
 sVtCenterY
-p21
+p16
 I0
 sVtranslateX
-p22
-I144
+p17
+I3
 sVtranslateY
-p23
-I679
-ssa(dp24
+p18
+I-18
+ssa(dp19
 g4
 Vcomponent0
-p25
+p20
 sg6
-(dp26
-g11
-I45
+(dp21
+sg8
+(dp22
+g10
+I0
+sg11
+I1
 sg12
-I400
-ssg13
-(dp27
-g15
+F0.5818700884167993
+sg13
+I0
+sg14
+I0
+sg15
 I0
 sg16
-I1
+I0
 sg17
-F0.4757672713851911
+I131
 sg18
+F560.6525356058651
+ssa(dp23
+g4
+Vcomponent0
+p24
+sg6
+(dp25
+sg8
+(dp26
+g10
 I0
-sg19
+sg11
+I1
+sg12
+F0.581870088416799
+sg13
 I0
-sg20
+sg14
 I0
-sg21
+sg15
 I0
-sg22
-I269
-sg23
-I683
+sg16
+I0
+sg17
+I329
+sg18
+F560.6525356058652
 ssasVxyz.fontra.layer-names
-p28
-(dp29
+p27
+(dp28
 VOisac-Regular/public.default
-p30
+p29
 Vdefault
-p31
+p30
 ss."
 EndChar
 
 StartChar: quotesingle
-Encoding: 46 39 46
+Encoding: 4 39 46
 GlifName: quotesingle
 Width: 512
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 S 1 0 0 0.5 216 489.25 2
 PickledDataWithLists: "(dp0
 Vcom.black-foundry.variable-components
 p1
@@ -1838,7 +1884,7 @@ ss."
 EndChar
 
 StartChar: semicolon
-Encoding: 47 59 47
+Encoding: 22 59 47
 GlifName: semicolon
 Width: 512
 VWidth: 0
@@ -1860,7 +1906,7 @@ ss."
 EndChar
 
 StartChar: seven
-Encoding: 48 55 48
+Encoding: 18 55 48
 GlifName: seven
 Width: 512
 VWidth: 0
@@ -1884,7 +1930,7 @@ ss."
 EndChar
 
 StartChar: six
-Encoding: 49 54 49
+Encoding: 17 54 49
 GlifName: six
 Width: 512
 VWidth: 0
@@ -1913,7 +1959,7 @@ ss."
 EndChar
 
 StartChar: slash
-Encoding: 50 47 50
+Encoding: 10 47 50
 GlifName: slash
 Width: 512
 VWidth: 0
@@ -1935,7 +1981,7 @@ ss."
 EndChar
 
 StartChar: space
-Encoding: 51 32 51
+Encoding: 0 32 51
 GlifName: space
 Width: 512
 VWidth: 0
@@ -1963,7 +2009,7 @@ ss."
 EndChar
 
 StartChar: three
-Encoding: 52 51 52
+Encoding: 14 51 52
 GlifName: three
 Width: 512
 VWidth: 0
@@ -1991,7 +2037,7 @@ ss."
 EndChar
 
 StartChar: two
-Encoding: 53 50 53
+Encoding: 13 50 53
 GlifName: two
 Width: 512
 VWidth: 0
@@ -2019,7 +2065,7 @@ ss."
 EndChar
 
 StartChar: zero
-Encoding: 54 48 54
+Encoding: 11 48 54
 GlifName: zero
 Width: 512
 VWidth: 0
@@ -2044,6 +2090,1217 @@ p3
 Vdefault
 p4
 ss."
+EndChar
+
+StartChar: percent
+Encoding: 3 37 55
+GlifName: percent
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
+Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
+Refer: 31 -1 N 0.643447 -0.709068 0.257814 0.84246 90.2595 48.2422 2
+EndChar
+
+StartChar: backslash
+Encoding: 54 92 56
+GlifName: backslash
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 347.16 31.7437 2
+Refer: 31 -1 N 0.682045 0.497351 -0.338287 0.869553 210 367 2
+EndChar
+
+StartChar: exclam.0
+Encoding: 57 -1 57
+GlifName: exclam.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedbl.0
+Encoding: 58 -1 58
+GlifName: quotedbl.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesingle.0
+Encoding: 59 -1 59
+GlifName: quotesingle.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asterisk.0
+Encoding: 60 -1 60
+GlifName: asterisk.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: plus.0
+Encoding: 61 -1 61
+GlifName: plus.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: comma.0
+Encoding: 62 -1 62
+GlifName: comma.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen.0
+Encoding: 63 -1 63
+GlifName: hyphen.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: period.0
+Encoding: 64 -1 64
+GlifName: period.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: slash.0
+Encoding: 65 -1 65
+GlifName: slash.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: zero.0
+Encoding: 66 -1 66
+GlifName: zero.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: one.0
+Encoding: 67 -1 67
+GlifName: one.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: two.0
+Encoding: 68 -1 68
+GlifName: two.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: three.0
+Encoding: 69 -1 69
+GlifName: three.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: four.0
+Encoding: 70 -1 70
+GlifName: four.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five.0
+Encoding: 71 -1 71
+GlifName: five.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: six.0
+Encoding: 72 -1 72
+GlifName: six.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven.0
+Encoding: 73 -1 73
+GlifName: seven.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight.0
+Encoding: 74 -1 74
+GlifName: eight.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine.0
+Encoding: 75 -1 75
+GlifName: nine.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: colon.0
+Encoding: 76 -1 76
+GlifName: colon.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: semicolon.0
+Encoding: 77 -1 77
+GlifName: semicolon.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less.0
+Encoding: 78 -1 78
+GlifName: less.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal.0
+Encoding: 79 -1 79
+GlifName: equal.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: greater.0
+Encoding: 80 -1 80
+GlifName: greater.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: question.0
+Encoding: 81 -1 81
+GlifName: question.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: A.0
+Encoding: 82 -1 82
+GlifName: A_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B.0
+Encoding: 83 -1 83
+GlifName: B_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C.0
+Encoding: 84 -1 84
+GlifName: C_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D.0
+Encoding: 85 -1 85
+GlifName: D_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E.0
+Encoding: 86 -1 86
+GlifName: E_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F.0
+Encoding: 87 -1 87
+GlifName: F_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G.0
+Encoding: 88 -1 88
+GlifName: G_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H.0
+Encoding: 89 -1 89
+GlifName: H_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I.0
+Encoding: 90 -1 90
+GlifName: I_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J.0
+Encoding: 91 -1 91
+GlifName: J_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K.0
+Encoding: 92 -1 92
+GlifName: K_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L.0
+Encoding: 93 -1 93
+GlifName: L_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M.0
+Encoding: 94 -1 94
+GlifName: M_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N.0
+Encoding: 95 -1 95
+GlifName: N_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O.0
+Encoding: 96 -1 96
+GlifName: O_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P.0
+Encoding: 97 -1 97
+GlifName: P_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q.0
+Encoding: 98 -1 98
+GlifName: Q_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R.0
+Encoding: 99 -1 99
+GlifName: R_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S.0
+Encoding: 100 -1 100
+GlifName: S_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: T.0
+Encoding: 101 -1 101
+GlifName: T_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: U.0
+Encoding: 102 -1 102
+GlifName: U_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V.0
+Encoding: 103 -1 103
+GlifName: V_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: W.0
+Encoding: 104 -1 104
+GlifName: W_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X.0
+Encoding: 105 -1 105
+GlifName: X_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Y.0
+Encoding: 106 -1 106
+GlifName: Y_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z.0
+Encoding: 107 -1 107
+GlifName: Z_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: percent.0
+Encoding: 108 -1 108
+GlifName: percent.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: backslash.0
+Encoding: 109 -1 109
+GlifName: backslash.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: exclam.1
+Encoding: 110 -1 110
+GlifName: exclam.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 34 33 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedbl.1
+Encoding: 111 -1 111
+GlifName: quotedbl.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 45 34 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesingle.1
+Encoding: 112 -1 112
+GlifName: quotesingle.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 46 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asterisk.1
+Encoding: 113 -1 113
+GlifName: asterisk.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 27 42 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: plus.1
+Encoding: 114 -1 114
+GlifName: plus.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 43 43 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: comma.1
+Encoding: 115 -1 115
+GlifName: comma.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 30 44 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen.1
+Encoding: 116 -1 116
+GlifName: hyphen.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 38 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: period.1
+Encoding: 117 -1 117
+GlifName: period.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 42 46 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: slash.1
+Encoding: 118 -1 118
+GlifName: slash.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 50 47 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: zero.1
+Encoding: 119 -1 119
+GlifName: zero.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 54 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: one.1
+Encoding: 120 -1 120
+GlifName: one.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 41 49 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: two.1
+Encoding: 121 -1 121
+GlifName: two.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 53 50 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: three.1
+Encoding: 122 -1 122
+GlifName: three.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 52 51 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: four.1
+Encoding: 123 -1 123
+GlifName: four.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 36 52 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five.1
+Encoding: 124 -1 124
+GlifName: five.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 35 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: six.1
+Encoding: 125 -1 125
+GlifName: six.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 49 54 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven.1
+Encoding: 126 -1 126
+GlifName: seven.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 48 55 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight.1
+Encoding: 127 -1 127
+GlifName: eight.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 32 56 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine.1
+Encoding: 128 -1 128
+GlifName: nine.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 40 57 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: colon.1
+Encoding: 129 -1 129
+GlifName: colon.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 29 58 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: semicolon.1
+Encoding: 130 -1 130
+GlifName: semicolon.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 47 59 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less.1
+Encoding: 131 -1 131
+GlifName: less.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 39 60 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal.1
+Encoding: 132 -1 132
+GlifName: equal.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 33 61 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: greater.1
+Encoding: 133 -1 133
+GlifName: greater.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 37 62 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: question.1
+Encoding: 134 -1 134
+GlifName: question.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 44 63 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: at.1
+Encoding: 135 -1 135
+GlifName: at.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 28 64 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: A.1
+Encoding: 136 -1 136
+GlifName: A_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B.1
+Encoding: 137 -1 137
+GlifName: B_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 2 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C.1
+Encoding: 138 -1 138
+GlifName: C_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 3 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D.1
+Encoding: 139 -1 139
+GlifName: D_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 4 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E.1
+Encoding: 140 -1 140
+GlifName: E_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 5 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F.1
+Encoding: 141 -1 141
+GlifName: F_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 6 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G.1
+Encoding: 142 -1 142
+GlifName: G_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 7 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H.1
+Encoding: 143 -1 143
+GlifName: H_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 8 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I.1
+Encoding: 144 -1 144
+GlifName: I_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 9 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J.1
+Encoding: 145 -1 145
+GlifName: J_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 10 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K.1
+Encoding: 146 -1 146
+GlifName: K_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 11 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L.1
+Encoding: 147 -1 147
+GlifName: L_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 12 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M.1
+Encoding: 148 -1 148
+GlifName: M_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 13 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N.1
+Encoding: 149 -1 149
+GlifName: N_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 14 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O.1
+Encoding: 150 -1 150
+GlifName: O_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 15 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P.1
+Encoding: 151 -1 151
+GlifName: P_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 16 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q.1
+Encoding: 152 -1 152
+GlifName: Q_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 17 81 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R.1
+Encoding: 153 -1 153
+GlifName: R_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 18 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S.1
+Encoding: 154 -1 154
+GlifName: S_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 19 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: T.1
+Encoding: 155 -1 155
+GlifName: T_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 20 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: U.1
+Encoding: 156 -1 156
+GlifName: U_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 21 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V.1
+Encoding: 157 -1 157
+GlifName: V_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 22 86 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: W.1
+Encoding: 158 -1 158
+GlifName: W_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 23 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X.1
+Encoding: 159 -1 159
+GlifName: X_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 24 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Y.1
+Encoding: 160 -1 160
+GlifName: Y_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 25 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z.1
+Encoding: 161 -1 161
+GlifName: Z_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 26 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: percent.1
+Encoding: 162 -1 162
+GlifName: percent.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 55 37 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: backslash.1
+Encoding: 163 -1 163
+GlifName: backslash.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 56 92 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

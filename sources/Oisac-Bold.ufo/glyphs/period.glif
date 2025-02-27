@@ -1,18 +1,12 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
   <advance width="512"/>
   <unicode hex="002E"/>
   <outline>
     <component base="space" xOffset="3" yOffset="-18"/>
-    <component base="component0" xScale="0.9999999632871894" xyScale="-7.10324950402394e-05" yxScale="0.0002709716216310825" yScale="0.2621399702610941" xOffset="214" yOffset="-55"/>
+    <component base="component0" yScale="0.26214" xyScale="-7.10325e-05" yxScale="0.000270972" xOffset="214" yOffset="-55"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
   <advance width="512"/>
   <unicode hex="0052"/>
@@ -7,19 +7,13 @@
     <component base="component0" xOffset="11" yOffset="-2"/>
     <component base="component0" xOffset="10" yOffset="389"/>
     <component base="component0" xOffset="419" yOffset="396"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="453" yOffset="755"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="249.05990221686073" yOffset="350"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.45" yScale="0" xOffset="449.9330351307241" yOffset="350"/>
-    <component base="component0" xScale="1.030525534656889" xyScale="0.5733358232320817" yxScale="-0.5111293367414078" yScale="1.002403255994643" xOffset="417.0983505434442" yOffset="-23.500114675790662"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="257" yOffset="755"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="453" yOffset="755"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="249.06" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.45" xOffset="449.933" yOffset="350"/>
+    <component base="component0" xScale="1.03053" yScale="1.0024" xyScale="0.573336" yxScale="-0.511129" xOffset="417.098" yOffset="-23.5001"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="755"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

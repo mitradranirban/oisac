@@ -1,0 +1,3282 @@
+SplineFontDB: 3.0
+FontName: Oisac-Bold
+FullName: Oisac Bold
+FamilyName: Oisac
+Weight: Bold
+Copyright: Copyright (c) 2025, Dr Anirban Mitra
+UComments: "2025-1-26: Created with FontForge (http://fontforge.org)"
+Version: 0.100
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 820
+Descent: 204
+InvalidEm: 0
+UFOAscent: 820
+UFODescent: -204
+LayerCount: 7
+Layer: 0 0 "Back" 1
+Layer: 1 0 "public.default" 0 "glyphs"
+Layer: 2 0 "flat" 1 "glyphs.flat"
+Layer: 3 0 "peak" 1 "glyphs.peak"
+Layer: 4 0 "Black" 1 "glyphs.B_lack"
+Layer: 5 0 "flat#1" 1 "glyphs.flat#1"
+Layer: 6 0 "peak#1" 1 "glyphs.peak#1"
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1740635816
+ModificationTime: 1740641332
+PfmFamily: 16
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 1230
+OS2TypoAOffset: 0
+OS2TypoDescent: -306
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1230
+OS2WinAOffset: 0
+OS2WinDescent: 306
+OS2WinDOffset: 0
+HheadAscent: 1230
+HheadAOffset: 0
+HheadDescent: -306
+HheadDOffset: 0
+OS2CapHeight: 768
+OS2XHeight: 512
+OS2Vendor: 'anir'
+DEI: 91125
+LangName: 1033 "Copyright (c) 2025, Dr Anirban Mitra" "" "" "" "" "Version 0.100" "" "" "Dr Anirban Mitra" "Dr Anirban Mitra" "A Color Variable Caps only Font with LED Display Look " "https://fonts.atipra.in" "https://github.com/mitradranirban" "This font is released under SIL Open Font Licence Version 1.1. The Licence is available with a FAQ at https://openfontlicense.org" "https://openfontlicense.org"
+PickledDataWithLists: "(dp0
+Vxyz.fontra.lineMetricsHorizontalLayout.zones
+p1
+(dp2
+Vascender
+p3
+I16
+sVbaseline
+p4
+I-16
+sVcapHeight
+p5
+I16
+sVdescender
+p6
+I-16
+sVxHeight
+p7
+I16
+ss."
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 18 7
+BeginChars: 167 164
+
+StartChar: .notdef
+Encoding: 0 0 0
+GlifName: _notdef
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 386 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 745 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 397.16 7.74371 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
+Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
+Refer: 31 -1 N 0.643447 -0.709068 0.257814 0.84246 90.2595 48.2422 2
+Refer: 31 -1 N 0.682045 0.497351 -0.338287 0.869553 194 404 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: A
+Encoding: 29 65 1
+GlifName: A_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: B
+Encoding: 30 66 2
+GlifName: B_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0.937286 0.544684 -0.464884 0.952309 386.037 5.28175 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Refer: 31 -1 N 0.758859 -0.927149 0.454868 0.920148 219.918 433.533 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: C
+Encoding: 31 67 3
+GlifName: C_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: D
+Encoding: 32 68 4
+GlifName: D_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0.864536 -0.796041 0.346399 0.945795 83.5746 51.5145 2
+Refer: 31 -1 N 0.83377 0.544634 -0.413541 0.952221 217.92 369.703 2
+Refer: 51 32 N 1 0 0 1 0 0 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: E
+Encoding: 33 69 5
+GlifName: E_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: F
+Encoding: 34 70 6
+GlifName: F_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: G
+Encoding: 35 71 7
+GlifName: G_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: H
+Encoding: 36 72 8
+GlifName: H_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 51 32 N 1 0 0 1 0 0 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: I
+Encoding: 37 73 9
+GlifName: I_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Guideline: "TOP" "" 11 795 0 0 0
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: J
+Encoding: 38 74 10
+GlifName: J_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: K
+Encoding: 39 75 11
+GlifName: K_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 397.16 7.74371 2
+Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: L
+Encoding: 40 76 12
+GlifName: L_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: M
+Encoding: 41 77 13
+GlifName: M_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0.715928 -0.94968 0.429135 0.942509 231.722 425.669 2
+Refer: 31 -1 N 0.838233 0.545186 -0.415755 0.953186 218.623 369.303 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: N
+Encoding: 42 78 14
+GlifName: N_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0.867359 0.52342 -0.430201 0.915131 389.129 6.20669 2
+Refer: 31 -1 N 0.853298 0.558805 -0.423226 0.976999 220.998 359.423 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: O
+Encoding: 43 79 15
+GlifName: O_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: P
+Encoding: 44 80 16
+GlifName: P_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: Q
+Encoding: 45 81 17
+GlifName: Q_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 397.16 7.74371 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: R
+Encoding: 46 82 18
+GlifName: R_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 1.03053 0.573336 -0.511129 1.0024 417.098 -23.5001 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: S
+Encoding: 47 83 19
+GlifName: S_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0.87168 0.530519 -0.432344 0.927544 388.938 5.89789 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Refer: 31 -1 N 0.848627 0.550109 -0.42091 0.961794 220.262 365.731 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: T
+Encoding: 48 84 20
+GlifName: T_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: U
+Encoding: 49 85 21
+GlifName: U_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: V
+Encoding: 50 86 22
+GlifName: V_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0.868845 0.548674 -0.430938 0.959285 386.396 -25.4448 2
+Refer: 31 -1 N 0.940564 0.548375 -0.466509 0.958762 211 362 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: W
+Encoding: 51 87 23
+GlifName: W_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0.792179 0.558277 -0.392912 0.976074 390.499 -20.7058 2
+Refer: 31 -1 N 0.972779 -0.810252 0.38977 0.96268 61.7429 37.3974 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: X
+Encoding: 52 88 24
+GlifName: X_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 0.755684 0.543747 -0.403523 0.911847 394.226 5.31663 2
+Refer: 31 -1 N 0.695695 -0.936656 0.417007 0.929584 237.286 430.215 2
+Refer: 31 -1 N 0.855753 -0.7839 0.34288 0.93137 83.8402 51.0577 2
+Refer: 31 -1 N 0.817007 0.542755 -0.405226 0.948937 215.277 371.065 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: Y
+Encoding: 53 89 25
+GlifName: Y_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 0.799943 -0.943617 0.479494 0.936492 225.899 430.253 2
+Refer: 31 -1 N 0.966477 0.534558 -0.479362 0.934605 209.586 374.845 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: Z
+Encoding: 54 90 26
+GlifName: Z_
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Refer: 31 -1 N 0.860765 -0.98805 0.515951 0.980589 223.336 429.668 2
+Refer: 31 -1 N 1.18556 -0.785312 0.475027 0.933048 18.2575 52.4193 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: asterisk
+Encoding: 6 42 27
+GlifName: asterisk
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 397.16 7.74371 2
+Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
+Refer: 31 -1 N 0.643447 -0.709068 0.257814 0.84246 90.2595 48.2422 2
+Refer: 31 -1 N 0.682045 0.497351 -0.338287 0.869553 194 404 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: at
+Encoding: 28 64 28
+GlifName: at
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 386 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 745 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
+PickledDataWithLists: "(dp0
+Vcom.black-foundry.variable-components
+p1
+(lp2
+(dp3
+Vbase
+p4
+Vspace
+p5
+sVlocation
+p6
+(dp7
+sVtransformation
+p8
+(dp9
+Vrotation
+p10
+I0
+sVscaleX
+p11
+I1
+sVscaleY
+p12
+I1
+sVskewX
+p13
+I0
+sVskewY
+p14
+I0
+sVtCenterX
+p15
+I0
+sVtCenterY
+p16
+I0
+sVtranslateX
+p17
+I3
+sVtranslateY
+p18
+I-8
+ssa(dp19
+g4
+Vcomponent0
+p20
+sg6
+(dp21
+sg8
+(dp22
+g10
+I0
+sg11
+I1
+sg12
+I1
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I11
+sg18
+I-2
+ssa(dp23
+g4
+Vcomponent0
+p24
+sg6
+(dp25
+sg8
+(dp26
+g10
+I0
+sg11
+I1
+sg12
+I1
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I10
+sg18
+I389
+ssa(dp27
+g4
+Vcomponent0
+p28
+sg6
+(dp29
+sg8
+(dp30
+g10
+I0
+sg11
+I1
+sg12
+I1
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I233
+sg18
+I-4
+ssa(dp31
+g4
+Vcomponent0
+p32
+sg6
+(dp33
+sg8
+(dp34
+g10
+I0
+sg11
+I1
+sg12
+I1
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I419
+sg18
+I396
+ssa(dp35
+g4
+Vcomponent0
+p36
+sg6
+(dp37
+sg8
+(dp38
+g10
+I90
+sg11
+I1
+sg12
+F0.5
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I465
+sg18
+I-40
+ssa(dp39
+g4
+Vcomponent0
+p40
+sg6
+(dp41
+sg8
+(dp42
+g10
+I90
+sg11
+I1
+sg12
+F0.5
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I453
+sg18
+I755
+ssa(dp43
+g4
+Vcomponent0
+p44
+sg6
+(dp45
+sg8
+(dp46
+g10
+I90
+sg11
+I1
+sg12
+F0.45
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+F449.9330351307241
+sg18
+I350
+ssa(dp47
+g4
+Vcomponent0
+p48
+sg6
+(dp49
+sg8
+(dp50
+g10
+I90
+sg11
+I1
+sg12
+F0.5
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I257
+sg18
+I755
+ssa(dp51
+g4
+Vcomponent0
+p52
+sg6
+(dp53
+Vbevel
+p54
+I45
+sVwidth
+p55
+I400
+ssg8
+(dp56
+g10
+I0
+sg11
+I1
+sg12
+I1
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I420
+sg18
+I0
+ssasVxyz.fontra.layer-names
+p57
+(dp58
+VOisac-Regular/public.default
+p59
+Vdefault
+p60
+ss."
+EndChar
+
+StartChar: colon
+Encoding: 22 58 29
+GlifName: colon
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.25096 216 102.025 2
+Refer: 31 -1 N 1 0 0 0.25096 223 464 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: comma
+Encoding: 8 44 30
+GlifName: comma
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 0.853948 -0.520359 0.19478 0.319201 185 -21 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: component0
+Encoding: 56 -1 31
+GlifName: component0
+Width: 80
+VWidth: 0
+GlyphClass: 5
+Flags: W
+LayerCount: 7
+Fore
+SplineSet
+-10 345 m 257
+ 39 392 l 257
+ 90 345 l 257
+ 90 61 l 257
+ 40 2 l 257
+ -10 62 l 257
+ -10 345 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/flat#1
+p3
+Vflat
+p4
+sVOisac-Regular/peak#1
+p5
+Vpeak
+p6
+sVOisac-Regular/public.default
+p7
+Vthin
+p8
+ss."
+Layer: 5
+SplineSet
+3 390 m 257
+ 17 390 l 257
+ 33 390 l 257
+ 34 -1 l 257
+ 16 -1 l 257
+ 0 1 l 257
+ 3 390 l 257
+EndSplineSet
+Layer: 6
+SplineSet
+-1 390 m 257
+ 17 479 l 257
+ 34 390 l 257
+ 34 1 l 257
+ 17 -72 l 257
+ 0 1 l 257
+ -1 390 l 257
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 20 56 32
+GlifName: eight
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: equal
+Encoding: 25 61 33
+GlifName: equal
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+Refer: 31 -1 N 0 1 -1 0 445 473 2
+Refer: 31 -1 N 0 1 -1 0 441 267 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: exclam
+Encoding: 2 33 34
+GlifName: exclam
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.23978 216 -100.199 2
+Refer: 31 -1 N 1 0 0 2.00617 216 0.59854 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: five
+Encoding: 17 53 35
+GlifName: five
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: four
+Encoding: 16 52 36
+GlifName: four
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: greater
+Encoding: 26 62 37
+GlifName: greater
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 -1 N 0.873478 -0.788703 0.349982 0.937077 83.9963 51.2384 2
+Refer: 31 -1 N 0.834373 0.548461 -0.41384 0.958913 218.015 366.926 2
+Refer: 51 32 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: hyphen
+Encoding: 9 45 38
+GlifName: hyphen
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+Refer: 31 -1 N 0 1 -1 0 445 358 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: less
+Encoding: 24 60 39
+GlifName: less
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 -1 N 0.984828 0.565329 -0.488464 0.988404 414.766 -20.0247 2
+Refer: 31 -1 N 0.726876 -0.945327 0.435697 0.938188 228.712 427.188 2
+Refer: 51 32 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: nine
+Encoding: 21 57 40
+GlifName: nine
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 386 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 745 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: one
+Encoding: 13 49 41
+GlifName: one
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: period
+Encoding: 10 46 42
+GlifName: period
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 -7.10325e-05 0.000270972 0.26214 214 -55 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: plus
+Encoding: 7 43 43
+GlifName: plus
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.5 218 183.25 2
+Refer: 31 -1 N 1 0 0 0.5 216 403.25 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+PickledDataWithLists: "(dp0
+Vcom.black-foundry.variable-components
+p1
+(lp2
+(dp3
+Vbase
+p4
+Vcomponent0
+p5
+sVlocation
+p6
+(dp7
+sVtransformation
+p8
+(dp9
+Vrotation
+p10
+I0
+sVscaleX
+p11
+I1
+sVscaleY
+p12
+F0.6162777143030966
+sVskewX
+p13
+I0
+sVskewY
+p14
+I0
+sVtCenterX
+p15
+I0
+sVtCenterY
+p16
+I0
+sVtranslateX
+p17
+I216
+sVtranslateY
+p18
+F152.4191359931861
+ssa(dp19
+g4
+Vcomponent0
+p20
+sg6
+(dp21
+sg8
+(dp22
+g10
+I0
+sg11
+I1
+sg12
+F0.6740988806409862
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I216
+sg18
+F392.651802238718
+ssa(dp23
+g4
+Vcomponent0
+p24
+sg6
+(dp25
+Vwidth
+p26
+I100
+ssg8
+(dp27
+g10
+I90
+sg11
+I1
+sg12
+F0.5
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+F249.05990221686073
+sg18
+I350
+ssa(dp28
+g4
+Vcomponent0
+p29
+sg6
+(dp30
+sg8
+(dp31
+g10
+I90
+sg11
+I1
+sg12
+F0.5
+sg13
+I0
+sg14
+I0
+sg15
+I0
+sg16
+I0
+sg17
+I464
+sg18
+I354
+ssa(dp32
+g4
+Vspace
+p33
+sg6
+(dp34
+sasVxyz.fontra.layer-names
+p35
+(dp36
+VOisac-Regular/public.default
+p37
+Vdefault
+p38
+ss."
+EndChar
+
+StartChar: question
+Encoding: 27 63 44
+GlifName: question
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 419 386 2
+Refer: 31 -1 N 0 1 -0.13107 0 291 -97 2
+Refer: 31 -1 N 0 1 -0.801852 0 453 745 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: quotedbl
+Encoding: 3 34 45
+GlifName: quotedbl
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 0.5 123 479.5 2
+Refer: 31 -1 N 1 0 0 0.5 329 486 2
+PickledDataWithLists: "(dp0
+Vcom.black-foundry.variable-components
+p1
+(lp2
+(dp3
+Vbase
+p4
+Vspace
+p5
+sVlocation
+p6
+(dp7
+sa(dp8
+g4
+Vcomponent0
+p9
+sg6
+(dp10
+Vbevel
+p11
+I45
+sVwidth
+p12
+I400
+ssVtransformation
+p13
+(dp14
+Vrotation
+p15
+I0
+sVscaleX
+p16
+I1
+sVscaleY
+p17
+F0.4757672713851911
+sVskewX
+p18
+I0
+sVskewY
+p19
+I0
+sVtCenterX
+p20
+I0
+sVtCenterY
+p21
+I0
+sVtranslateX
+p22
+I144
+sVtranslateY
+p23
+I679
+ssa(dp24
+g4
+Vcomponent0
+p25
+sg6
+(dp26
+g11
+I45
+sg12
+I400
+ssg13
+(dp27
+g15
+I0
+sg16
+I1
+sg17
+F0.4757672713851911
+sg18
+I0
+sg19
+I0
+sg20
+I0
+sg21
+I0
+sg22
+I269
+sg23
+I683
+ssasVxyz.fontra.layer-names
+p28
+(dp29
+VOisac-Regular/public.default
+p30
+Vdefault
+p31
+ss."
+EndChar
+
+StartChar: quotesingle
+Encoding: 5 39 46
+GlifName: quotesingle
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 S 1 0 0 0.5 216 489.25 2
+PickledDataWithLists: "(dp0
+Vcom.black-foundry.variable-components
+p1
+(lp2
+(dp3
+Vbase
+p4
+Vspace
+p5
+sVlocation
+p6
+(dp7
+sa(dp8
+g4
+Vcomponent0
+p9
+sg6
+(dp10
+Vbevel
+p11
+I45
+sVwidth
+p12
+I400
+ssVtransformation
+p13
+(dp14
+Vrotation
+p15
+I0
+sVscaleX
+p16
+I1
+sVscaleY
+p17
+F0.4757672713851911
+sVskewX
+p18
+I0
+sVskewY
+p19
+I0
+sVtCenterX
+p20
+I0
+sVtCenterY
+p21
+I0
+sVtranslateX
+p22
+I220
+sVtranslateY
+p23
+F686.4992296170051
+ssasVxyz.fontra.layer-names
+p24
+(dp25
+VOisac-Regular/public.default
+p26
+Vdefault
+p27
+ss."
+EndChar
+
+StartChar: semicolon
+Encoding: 23 59 47
+GlifName: semicolon
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 0.853948 -0.520359 0.19478 0.319201 185 -21 2
+Refer: 31 -1 N 1 -7.10325e-05 0.000270972 0.26214 218 358 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: seven
+Encoding: 19 55 48
+GlifName: seven
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: six
+Encoding: 18 54 49
+GlifName: six
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: slash
+Encoding: 11 47 50
+GlifName: slash
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 31 -1 N 0.832187 -1.0064 0.498822 0.998798 217.854 425.771 2
+Refer: 31 -1 N 1.12171 -0.833363 0.449443 0.990138 29.9033 33.1206 2
+Refer: 51 32 N 1 0 0 1 0 0 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: space
+Encoding: 1 32 51
+GlifName: space
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+2 847 m 257
+ -3 -9 l 257
+ 256 -90 l 257
+ 512 -5 l 257
+ 512 850 l 257
+ 258 903 l 257
+ 2 847 l 257
+EndSplineSet
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: three
+Encoding: 15 51 52
+GlifName: three
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: two
+Encoding: 14 50 53
+GlifName: two
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: zero
+Encoding: 12 48 54
+GlifName: zero
+Width: 512
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 51 32 N 1 0 0 1 3 -8 2
+Refer: 31 -1 N 1 0 0 1 11 -2 2
+Refer: 31 -1 N 1 0 0 1 10 389 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 1 0 0 1 419 396 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 453 755 2
+Refer: 31 -1 N 0 1 -0.5 0 253 -41 2
+Refer: 31 -1 N 0 1 -0.5 0 257 755 2
+PickledDataWithLists: "(dp0
+Vxyz.fontra.layer-names
+p1
+(dp2
+VOisac-Regular/public.default
+p3
+Vdefault
+p4
+ss."
+EndChar
+
+StartChar: percent
+Encoding: 4 37 55
+GlifName: percent
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 1 0 0 1 10 379 2
+Refer: 31 -1 N 1 0 0 1 216 2 2
+Refer: 31 -1 N 1 0 0 1 216 392 2
+Refer: 31 -1 N 1 0 0 1 420 -5 2
+Refer: 31 -1 N 0 1 -0.5 0 456 -40 2
+Refer: 31 -1 N 0 1 -0.5 0 249.06 350 2
+Refer: 31 -1 N 0 1 -0.45 0 449.933 350 2
+Refer: 31 -1 N 0 1 -0.5 0 257 745 2
+Refer: 31 -1 N 0.595228 -0.882265 0.356786 0.875603 264.911 449.2 2
+Refer: 31 -1 N 0.643447 -0.709068 0.257814 0.84246 90.2595 48.2422 2
+EndChar
+
+StartChar: backslash
+Encoding: 55 92 56
+GlifName: backslash
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 3 -18 2
+Refer: 31 -1 N 0.685728 0.488083 -0.340114 0.85335 347.16 31.7437 2
+Refer: 31 -1 N 0.682045 0.497351 -0.338287 0.869553 210 367 2
+EndChar
+
+StartChar: exclam.0
+Encoding: 57 -1 57
+GlifName: exclam.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedbl.0
+Encoding: 58 -1 58
+GlifName: quotedbl.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesingle.0
+Encoding: 59 -1 59
+GlifName: quotesingle.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asterisk.0
+Encoding: 60 -1 60
+GlifName: asterisk.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: plus.0
+Encoding: 61 -1 61
+GlifName: plus.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: comma.0
+Encoding: 62 -1 62
+GlifName: comma.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen.0
+Encoding: 63 -1 63
+GlifName: hyphen.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: period.0
+Encoding: 64 -1 64
+GlifName: period.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: slash.0
+Encoding: 65 -1 65
+GlifName: slash.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: zero.0
+Encoding: 66 -1 66
+GlifName: zero.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: one.0
+Encoding: 67 -1 67
+GlifName: one.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: two.0
+Encoding: 68 -1 68
+GlifName: two.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: three.0
+Encoding: 69 -1 69
+GlifName: three.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: four.0
+Encoding: 70 -1 70
+GlifName: four.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five.0
+Encoding: 71 -1 71
+GlifName: five.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: six.0
+Encoding: 72 -1 72
+GlifName: six.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven.0
+Encoding: 73 -1 73
+GlifName: seven.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight.0
+Encoding: 74 -1 74
+GlifName: eight.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine.0
+Encoding: 75 -1 75
+GlifName: nine.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: colon.0
+Encoding: 76 -1 76
+GlifName: colon.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: semicolon.0
+Encoding: 77 -1 77
+GlifName: semicolon.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less.0
+Encoding: 78 -1 78
+GlifName: less.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal.0
+Encoding: 79 -1 79
+GlifName: equal.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: greater.0
+Encoding: 80 -1 80
+GlifName: greater.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: question.0
+Encoding: 81 -1 81
+GlifName: question.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: A.0
+Encoding: 82 -1 82
+GlifName: A_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B.0
+Encoding: 83 -1 83
+GlifName: B_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C.0
+Encoding: 84 -1 84
+GlifName: C_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D.0
+Encoding: 85 -1 85
+GlifName: D_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E.0
+Encoding: 86 -1 86
+GlifName: E_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F.0
+Encoding: 87 -1 87
+GlifName: F_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G.0
+Encoding: 88 -1 88
+GlifName: G_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H.0
+Encoding: 89 -1 89
+GlifName: H_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I.0
+Encoding: 90 -1 90
+GlifName: I_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J.0
+Encoding: 91 -1 91
+GlifName: J_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K.0
+Encoding: 92 -1 92
+GlifName: K_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L.0
+Encoding: 93 -1 93
+GlifName: L_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M.0
+Encoding: 94 -1 94
+GlifName: M_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N.0
+Encoding: 95 -1 95
+GlifName: N_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O.0
+Encoding: 96 -1 96
+GlifName: O_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P.0
+Encoding: 97 -1 97
+GlifName: P_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q.0
+Encoding: 98 -1 98
+GlifName: Q_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R.0
+Encoding: 99 -1 99
+GlifName: R_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S.0
+Encoding: 100 -1 100
+GlifName: S_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: T.0
+Encoding: 101 -1 101
+GlifName: T_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: U.0
+Encoding: 102 -1 102
+GlifName: U_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V.0
+Encoding: 103 -1 103
+GlifName: V_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: W.0
+Encoding: 104 -1 104
+GlifName: W_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X.0
+Encoding: 105 -1 105
+GlifName: X_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Y.0
+Encoding: 106 -1 106
+GlifName: Y_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z.0
+Encoding: 107 -1 107
+GlifName: Z_.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: percent.0
+Encoding: 108 -1 108
+GlifName: percent.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: backslash.0
+Encoding: 109 -1 109
+GlifName: backslash.0
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 51 32 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: exclam.1
+Encoding: 110 -1 110
+GlifName: exclam.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 34 33 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotedbl.1
+Encoding: 111 -1 111
+GlifName: quotedbl.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 45 34 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: quotesingle.1
+Encoding: 112 -1 112
+GlifName: quotesingle.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 46 39 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asterisk.1
+Encoding: 113 -1 113
+GlifName: asterisk.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 27 42 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: plus.1
+Encoding: 114 -1 114
+GlifName: plus.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 43 43 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: comma.1
+Encoding: 115 -1 115
+GlifName: comma.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 30 44 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hyphen.1
+Encoding: 116 -1 116
+GlifName: hyphen.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 38 45 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: period.1
+Encoding: 117 -1 117
+GlifName: period.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 42 46 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: slash.1
+Encoding: 118 -1 118
+GlifName: slash.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 50 47 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: zero.1
+Encoding: 119 -1 119
+GlifName: zero.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 54 48 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: one.1
+Encoding: 120 -1 120
+GlifName: one.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 41 49 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: two.1
+Encoding: 121 -1 121
+GlifName: two.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 53 50 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: three.1
+Encoding: 122 -1 122
+GlifName: three.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 52 51 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: four.1
+Encoding: 123 -1 123
+GlifName: four.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 36 52 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: five.1
+Encoding: 124 -1 124
+GlifName: five.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 35 53 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: six.1
+Encoding: 125 -1 125
+GlifName: six.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 49 54 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: seven.1
+Encoding: 126 -1 126
+GlifName: seven.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 48 55 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: eight.1
+Encoding: 127 -1 127
+GlifName: eight.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 32 56 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine.1
+Encoding: 128 -1 128
+GlifName: nine.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 40 57 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: colon.1
+Encoding: 129 -1 129
+GlifName: colon.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 29 58 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: semicolon.1
+Encoding: 130 -1 130
+GlifName: semicolon.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 47 59 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: less.1
+Encoding: 131 -1 131
+GlifName: less.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 39 60 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal.1
+Encoding: 132 -1 132
+GlifName: equal.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 33 61 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: greater.1
+Encoding: 133 -1 133
+GlifName: greater.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 37 62 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: question.1
+Encoding: 134 -1 134
+GlifName: question.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 44 63 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: at.1
+Encoding: 135 -1 135
+GlifName: at.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 28 64 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: A.1
+Encoding: 136 -1 136
+GlifName: A_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B.1
+Encoding: 137 -1 137
+GlifName: B_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 2 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C.1
+Encoding: 138 -1 138
+GlifName: C_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 3 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D.1
+Encoding: 139 -1 139
+GlifName: D_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 4 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E.1
+Encoding: 140 -1 140
+GlifName: E_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 5 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F.1
+Encoding: 141 -1 141
+GlifName: F_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 6 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G.1
+Encoding: 142 -1 142
+GlifName: G_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 7 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H.1
+Encoding: 143 -1 143
+GlifName: H_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 8 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I.1
+Encoding: 144 -1 144
+GlifName: I_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 9 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J.1
+Encoding: 145 -1 145
+GlifName: J_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 10 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K.1
+Encoding: 146 -1 146
+GlifName: K_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 11 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L.1
+Encoding: 147 -1 147
+GlifName: L_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 12 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M.1
+Encoding: 148 -1 148
+GlifName: M_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 13 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N.1
+Encoding: 149 -1 149
+GlifName: N_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 14 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O.1
+Encoding: 150 -1 150
+GlifName: O_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 15 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P.1
+Encoding: 151 -1 151
+GlifName: P_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 16 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q.1
+Encoding: 152 -1 152
+GlifName: Q_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 17 81 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R.1
+Encoding: 153 -1 153
+GlifName: R_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 18 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S.1
+Encoding: 154 -1 154
+GlifName: S_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 19 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: T.1
+Encoding: 155 -1 155
+GlifName: T_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 20 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: U.1
+Encoding: 156 -1 156
+GlifName: U_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 21 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V.1
+Encoding: 157 -1 157
+GlifName: V_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 22 86 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: W.1
+Encoding: 158 -1 158
+GlifName: W_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 23 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X.1
+Encoding: 159 -1 159
+GlifName: X_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 24 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Y.1
+Encoding: 160 -1 160
+GlifName: Y_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 25 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z.1
+Encoding: 161 -1 161
+GlifName: Z_.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 26 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: percent.1
+Encoding: 162 -1 162
+GlifName: percent.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 55 37 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: backslash.1
+Encoding: 163 -1 163
+GlifName: backslash.1
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 7
+Fore
+Refer: 56 92 N 1 0 0 1 0 0 2
+EndChar
+EndChars
+EndSplineFont

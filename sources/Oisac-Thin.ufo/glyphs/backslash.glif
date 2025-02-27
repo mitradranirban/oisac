@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="2">
+  <advance width="512"/>
+  <unicode hex="005C"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" xScale="0.685728" yScale="0.85335" xyScale="0.488083" yxScale="-0.340114" xOffset="347.16" yOffset="31.7437"/>
+    <component base="component0" xScale="0.682045" yScale="0.869553" xyScale="0.497351" yxScale="-0.338287" xOffset="210" yOffset="367"/>
+  </outline>
+</glyph>

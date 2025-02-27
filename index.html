@@ -3,45 +3,46 @@
     <head>
         <meta charset="utf8">
         <meta viewport="scale=1">
-        <title>V Love - A fun variable color font with lots of love</title>
+        <title>Oisac - variable color font with LED Backlit clock vibe</title>
         <style>
             @font-face {
-    font-family: "VLove default";
-    src: url("fonts/webfonts/V-love-VF.woff2") format("woff2-variations");
-    unicode-range: U+0020-0021, U+002C-002E, U+003F, U+0041-005A,U+1F493;
+    font-family: "Oisac Regular";
+    src: url("fonts/webfonts/Oisac-VF.woff2") format("woff2-variations");
+    font-weight: 100 700;
+    ANGL : -1 1;
 
 }
             h1 {
-                font-family: "VLove default";
-                font-variation-settings: "LOVE" 0;
+                font-family: "Oisac Regular";
+                font-variation-settings: "ANGL" 1;
             }
             h1:hover{
-                font-family: "VLove default";
-                font-variation-settings: "LOVE" 100;
+                font-family: "Oisac Regular";
+                font-variation-settings: "ANGL" -1;
             }
-            @keyframes lubdub {
+            @keyframes grow {
                 0% {
-               font-variation-settings: "LOVE" 0;
+               font-variation-settings: "wght" 100;
                 }
                 100%{
-                    font-variation-settings: "LOVE" 100;   
+                    font-variation-settings: "wght" 700;   
                 }
             }
             p{
-                font-family: "VLove default";
+                font-family: "Oisac Regular";
                 font-size: 4rem;
-                font-variation-settings: "LOVE" 0;
+                font-variation-settings: "wght" 400;
                 text-align: center;
-                animation: lubdub 4s infinite alternate
+                animation: grow 4s infinite alternate
             }
 
         </style>
     </head>
     <body>
-        <h1 class="class1">V-LOVE! A COLOR VARIABLE TYPEFACE, WITH LOVE</h1>
-        <p> ABCDE FGHIJ</p>
-        <p>KLMNOPQSTUVW</p>
-        <p>XYZ</p>
+        <h1 <span class="class1"> OISAC </span> VARIABLE COLOR TYPEFACE WITH BACKLIT LED CLOCK VIBE </h1>
+        <p> 1ST JANUARY 1978 12:34:56 AM</p>
+        <p>QUICK BROWN FOX JUMPS OVER THE LAZY DOG! </p>
+         
        
 
     </body>

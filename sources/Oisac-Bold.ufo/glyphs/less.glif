@@ -1,19 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="less" format="2">
   <advance width="512"/>
   <unicode hex="003C"/>
   <outline>
-    <component base="component0" xScale="0.9848279045964674" xyScale="0.5653287860772512" yxScale="-0.48846381458021837" yScale="0.9884039910095505" xOffset="414.7663694081331" yOffset="-20.024745579392473"/>
-    <component base="component0" xScale="0.7268755690631834" xyScale="-0.9453266399952944" yxScale="0.4356966514756173" yScale="0.9381884694618682" xOffset="228.71221580933076" yOffset="427.1883028560333"/>
+    <component base="component0" xScale="0.984828" yScale="0.988404" xyScale="0.565329" yxScale="-0.488464" xOffset="414.766" yOffset="-20.0247"/>
+    <component base="component0" xScale="0.726876" yScale="0.938188" xyScale="-0.945327" yxScale="0.435697" xOffset="228.712" yOffset="427.188"/>
     <component base="space"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

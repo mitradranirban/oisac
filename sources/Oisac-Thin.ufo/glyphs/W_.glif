@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="2">
   <advance width="512"/>
   <unicode hex="0057"/>
@@ -8,16 +8,10 @@
     <component base="component0" xOffset="10" yOffset="389"/>
     <component base="component0" xOffset="420" yOffset="-5"/>
     <component base="component0" xOffset="419" yOffset="396"/>
-    <component base="component0" xScale="0.7921793390111079" xyScale="0.5582765562552798" yxScale="-0.3929122438133542" yScale="0.9760740826920911" xOffset="390.4992498733928" yOffset="-20.705827220143824"/>
-    <component base="component0" xScale="0.9727794512249022" xyScale="-0.8102519414333588" yxScale="0.38976961213329464" yScale="0.9626798786595557" xOffset="61.74292290109294" yOffset="37.397389303395045"/>
+    <component base="component0" xScale="0.792179" yScale="0.976074" xyScale="0.558277" yxScale="-0.392912" xOffset="390.499" yOffset="-20.7058"/>
+    <component base="component0" xScale="0.972779" yScale="0.96268" xyScale="-0.810252" yxScale="0.38977" xOffset="61.7429" yOffset="37.3974"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

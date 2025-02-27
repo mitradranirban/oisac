@@ -2,6 +2,11 @@
 <glyph name="quotedbl" format="2">
   <advance width="512"/>
   <unicode hex="0022"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" yScale="0.5" xOffset="123" yOffset="479.5"/>
+    <component base="component0" yScale="0.5" xOffset="329" yOffset="486"/>
+  </outline>
   <lib>
     <dict/>
   </lib>

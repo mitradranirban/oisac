@@ -1,25 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="2">
   <advance width="512"/>
   <unicode hex="002A"/>
   <outline>
     <component base="space" xOffset="3" yOffset="-18"/>
-    <component base="component0" yScale="0.5985626052779337" xOffset="216" yOffset="159.36345873105"/>
-    <component base="component0" yScale="0.6375912408759125" xOffset="216" yOffset="392.7248175182482"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="249.05990221686073" yOffset="350"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.45" yScale="0" xOffset="449.9330351307241" yOffset="350"/>
-    <component base="component0" xScale="0.8154658440184698" xyScale="0.2836886422019051" yxScale="-0.4044620943111402" yScale="0.49599276219790367" xOffset="419.35998611789273" yOffset="153.95961724002393"/>
-    <component base="component0" xScale="0.5581527963545182" xyScale="-0.5180393873975857" yxScale="0.33456249560958484" yScale="0.5141276670103404" xOffset="266.1049147989818" yOffset="438.6314824139015"/>
-    <component base="component0" xScale="0.7813945175188834" xyScale="-0.4234289774173281" yxScale="0.31308621664748165" yScale="0.5030861831444062" xOffset="62.91358141199591" yOffset="172.7077545296219"/>
-    <component base="component0" xScale="0.6928566575779244" xyScale="0.27379427575650367" yxScale="-0.34364928566528286" yScale="0.47869374696288197" xOffset="193.67556857644013" yOffset="411.711971717811"/>
+    <component base="component0" yScale="0.598563" xOffset="216" yOffset="159.363"/>
+    <component base="component0" yScale="0.637591" xOffset="216" yOffset="392.725"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="249.06" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.45" xOffset="449.933" yOffset="350"/>
+    <component base="component0" xScale="0.815466" yScale="0.495993" xyScale="0.283689" yxScale="-0.404462" xOffset="419.36" yOffset="153.96"/>
+    <component base="component0" xScale="0.558153" yScale="0.514128" xyScale="-0.518039" yxScale="0.334562" xOffset="266.105" yOffset="438.631"/>
+    <component base="component0" xScale="0.781395" yScale="0.503086" xyScale="-0.423429" yxScale="0.313086" xOffset="62.9136" yOffset="172.708"/>
+    <component base="component0" xScale="0.692857" yScale="0.478694" xyScale="0.273794" yxScale="-0.343649" xOffset="193.676" yOffset="411.712"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

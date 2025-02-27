@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="2">
+  <advance width="512"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" xOffset="10" yOffset="379"/>
+    <component base="component0" xOffset="216" yOffset="2"/>
+    <component base="component0" xOffset="216" yOffset="392"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="456" yOffset="-40"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="249.06" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.45" xOffset="449.933" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="745"/>
+    <component base="component0" xScale="0.595228" yScale="0.875603" xyScale="-0.882265" yxScale="0.356786" xOffset="264.911" yOffset="449.2"/>
+    <component base="component0" xScale="0.643447" yScale="0.84246" xyScale="-0.709068" yxScale="0.257814" xOffset="90.2595" yOffset="48.2422"/>
+  </outline>
+</glyph>

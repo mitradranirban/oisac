@@ -1,23 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
   <advance width="512"/>
   <unicode hex="005A"/>
   <outline>
     <component base="space" xOffset="3" yOffset="-8"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="456" yOffset="-40"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="453" yOffset="755"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="253" yOffset="-41"/>
-    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="257" yOffset="755"/>
-    <component base="component0" xScale="0.8607651349130911" xyScale="-0.9880497473716835" yxScale="0.5159514268335412" yScale="0.9805889742443306" xOffset="223.33612810972448" yOffset="429.6682194623658"/>
-    <component base="component0" xScale="1.1855620302817576" xyScale="-0.7853117838940346" yxScale="0.4750265356870161" yScale="0.9330478758145724" xOffset="18.257526428263656" yOffset="52.419273856360086"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="456" yOffset="-40"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="453" yOffset="755"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="253" yOffset="-41"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="755"/>
+    <component base="component0" xScale="0.860765" yScale="0.980589" xyScale="-0.98805" yxScale="0.515951" xOffset="223.336" yOffset="429.668"/>
+    <component base="component0" xScale="1.18556" yScale="0.933048" xyScale="-0.785312" yxScale="0.475027" xOffset="18.2575" yOffset="52.4193"/>
   </outline>
   <lib>
-    <dict>
-      <key>xyz.fontra.layer-names</key>
-      <dict>
-        <key>Oisac-Regular/public.default</key>
-        <string>default</string>
-      </dict>
-    </dict>
+    <dict/>
   </lib>
 </glyph>

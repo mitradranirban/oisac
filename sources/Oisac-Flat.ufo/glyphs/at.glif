@@ -2,6 +2,18 @@
 <glyph name="at" format="2">
   <advance width="512"/>
   <unicode hex="0040"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="379"/>
+    <component base="component0" xOffset="216" yOffset="2"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="386"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="456" yOffset="-40"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="453" yOffset="745"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.45" xOffset="449.933" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="745"/>
+  </outline>
   <lib>
     <dict/>
   </lib>

@@ -3,7 +3,7 @@
 
   <CPAL>
     <version value="0"/>
-    <numPaletteEntries value="3"/>
+    <numPaletteEntries value="2"/>
     <palette index="0">
       <color index="0" value="#39FF14FF"/>
       <color index="1" value="#000000FF"/>
@@ -29,6 +29,10 @@
     <ColorGlyph name="quotedbl">
       <layer colorID="0" name="quotedbl.0"/>
       <layer colorID="1" name="quotedbl.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="percent">
+      <layer colorID="0" name="percent.0"/>
+      <layer colorID="1" name="percent.1"/>
     </ColorGlyph>
     <ColorGlyph name="quotesingle">
       <layer colorID="0" name="quotesingle.0"/>
@@ -229,6 +233,10 @@
     <ColorGlyph name="Z">
       <layer colorID="0" name="Z.0"/>
       <layer colorID="1" name="Z.1"/>
+    </ColorGlyph>
+    <ColorGlyph name="backslash">
+      <layer colorID="0" name="backslash.0"/>
+      <layer colorID="1" name="backslash.1"/>
     </ColorGlyph>
   </COLR>
 

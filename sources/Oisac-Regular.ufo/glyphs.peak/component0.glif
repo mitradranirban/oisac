@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="component0" format="2">
-  <advance width="34"/>
+  <advance width="80"/>
   <outline>
     <contour>
       <point x="-1" y="390" type="line"/>
