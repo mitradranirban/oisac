@@ -9264,7 +9264,7 @@
     <version value="0"/>
     <ColorGlyph name="exclam">
       <layer colorID="0" name="exclam.0"/>
-      <layer colorID="0" name="exclam.1"/>
+      <layer colorID="1" name="exclam.1"/>
     </ColorGlyph>
     <ColorGlyph name="quotedbl">
       <layer colorID="0" name="quotedbl.0"/>

@@ -30,18 +30,83 @@
             }
             p{
                 font-family: "Oisac Regular";
-                font-size: 4rem;
+                font-size: 3rem;
                 font-variation-settings: "wght" 400;
                 text-align: center;
                 animation: grow 4s infinite alternate
             }
+            @font-palette-values --red {
+				font-family: Oisac Regular;
+				base-palette: 1
+			}
+			
+			@font-palette-values --green {
+				font-family: Oisac Regular;
+				base-palette: 0
+			}
+			@font-palette-values --blue {
+				font-family: Oisac Regular;
+				base-palette: 2
+            }
+                .red {
+				font-family: Oisac Regular;
+				font-palette: --red;
+			 }
+			 .blue {
+				font-family: Oisac Regular;
+				font-palette: --blue;
+			 }
+			 .green {
+				font-family: Oisac Regular;
+				font-palette: --green;
+             }
+             .mix1 {
+				font-family: Oisac Regular;
+				font-palette:  palette-mix(in lch, --blue 55%, --red 45%);
+			 }
+			 .mix2 {
+				font-family: Oisac Regular;
+				font-palette:  palette-mix(in lch, --blue 50%, --green 50%);
+			 }
+			 .mix3 {
+				font-family: Oisac Regular;
+				font-palette:  palette-mix(in lch, --red 50%, --green 50%);
+			 }
+             .mix4 
+             {
+				font-family: Oisac Regular;
+				font-palette:  palette-mix(in lch, --red 80%, --green 20%);
+			 }
+             .mix5 {
+				font-family: Oisac Regular;
+				font-palette:  palette-mix(in lch, --blue 80%, --red 20%);
+			 }
+@keyframes animate-palette {
+  from {
+    font-palette: --red;
+  }
+
+  to {
+    font-palette: --blue;
+  } 
+}
+  .colorchange {
+  font-family: "Oisac Regular";
+  font-size: 4rem;
+  margin: 0;
+  text-align: center;
+  animation: animate-palette 4s infinite alternate linear;
+}
+
 
         </style>
     </head>
     <body>
-        <h1 <span class="class1"> OISAC </span> VARIABLE COLOR TYPEFACE WITH BACKLIT LED CLOCK VIBE </h1>
+        <h1> <span class="colorchange"> OISAC </span> VARIABLE COLOR TYPEFACE WITH BACKLIT LED CLOCK VIBE </h1>
         <p> 1ST JANUARY 1978 12:34:56 AM</p>
-        <p>QUICK BROWN FOX JUMPS OVER THE LAZY DOG! </p>
+        <p><span class="blue">QUICK </span><span class="mix1">BROWN </span> <span class="red">FOX</span> 
+            <span class="mix2">JUMPS</span>  <span class="mix3">OVER</span> <span class="green">THE </span><span class="mix5">LAZY</span>
+            <span class="mix4">DOG</span></p>
          
        
 
