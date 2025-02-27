@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>820</integer>
+    <key>capHeight</key>
+    <integer>768</integer>
+    <key>copyright</key>
+    <string>Copyright (c) 2025, Dr Anirban Mitra</string>
+    <key>descender</key>
+    <integer>-204</integer>
+    <key>familyName</key>
+    <string>Oisac</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <real>0.0</real>
+    <key>note</key>
+    <string>2025-1-26: Created with FontForge (http://fontforge.org)</string>
+    <key>openTypeHeadCreated</key>
+    <string>2025/01/26 14:46:30</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1230</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-306</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>A Color Variable Caps only Font with LED Display Look </string>
+    <key>openTypeNameDesigner</key>
+    <string>Dr Anirban Mitra</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/mitradranirban</string>
+    <key>openTypeNameLicense</key>
+    <string>This font is released under SIL Open Font Licence Version 1.1. The Licence is available with a FAQ at https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Dr Anirban Mitra</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://fonts.atipra.in</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 0.100</string>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1230</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-306</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>anir</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1230</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>306</integer>
+    <key>postscriptFontName</key>
+    <string>Oisac-Bold</string>
+    <key>postscriptFullName</key>
+    <string>Oisac Bold</string>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-102</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>51</integer>
+    <key>postscriptWeightName</key>
+    <string>Bold</string>
+    <key>styleMapFamilyName</key>
+    <string>Oisac</string>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1024</integer>
+    <key>versionMajor</key>
+    <integer>0</integer>
+    <key>versionMinor</key>
+    <integer>100</integer>
+    <key>xHeight</key>
+    <integer>512</integer>
+  </dict>
+</plist>

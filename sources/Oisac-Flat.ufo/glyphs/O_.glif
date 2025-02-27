@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="2">
+  <advance width="512"/>
+  <unicode hex="004F"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="456" yOffset="-40"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="453" yOffset="755"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="253" yOffset="-41"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="755"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

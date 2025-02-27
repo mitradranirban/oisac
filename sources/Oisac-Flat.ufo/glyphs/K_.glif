@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+  <advance width="512"/>
+  <unicode hex="004B"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="216" yOffset="2"/>
+    <component base="component0" xOffset="216" yOffset="392"/>
+    <component base="component0" xScale="0.685728" yScale="0.85335" xyScale="0.488083" yxScale="-0.340114" xOffset="397.16" yOffset="7.74371"/>
+    <component base="component0" xScale="0.595228" yScale="0.875603" xyScale="-0.882265" yxScale="0.356786" xOffset="264.911" yOffset="449.2"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

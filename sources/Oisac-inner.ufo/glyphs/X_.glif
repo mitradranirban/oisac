@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="2">
+  <advance width="512"/>
+  <unicode hex="0058"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xScale="0.755684" yScale="0.911847" xyScale="0.543747" yxScale="-0.403523" xOffset="394.226" yOffset="5.31663"/>
+    <component base="component0" xScale="0.695695" yScale="0.929584" xyScale="-0.936656" yxScale="0.417007" xOffset="237.286" yOffset="430.215"/>
+    <component base="component0" xScale="0.855753" yScale="0.93137" xyScale="-0.7839" yxScale="0.34288" xOffset="83.8402" yOffset="51.0577"/>
+    <component base="component0" xScale="0.817007" yScale="0.948937" xyScale="0.542755" yxScale="-0.405226" xOffset="215.277" yOffset="371.065"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

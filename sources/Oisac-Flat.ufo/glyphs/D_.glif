@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+  <advance width="512"/>
+  <unicode hex="0044"/>
+  <guideline x="11" y="795" angle="0" name="TOP"/>
+  <outline>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xScale="0.864536" yScale="0.945795" xyScale="-0.796041" yxScale="0.346399" xOffset="83.5746" yOffset="51.5145"/>
+    <component base="component0" xScale="0.83377" yScale="0.952221" xyScale="0.544634" yxScale="-0.413541" xOffset="217.92" yOffset="369.703"/>
+    <component base="space"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

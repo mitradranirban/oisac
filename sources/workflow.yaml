@@ -1,0 +1,8 @@
+steps:
+  - input: fontra-read
+    source: Oisac.designspace
+  - filter: decompose-composites
+    onlyVariableComposites: true
+  - filter: drop-unreachable-glyphs
+  - output: compile-fontmake
+    destination: Oisac-VF.ttf

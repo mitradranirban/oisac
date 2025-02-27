@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="512"/>
+  <unicode hex="004E"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0.8673594167345223" xyScale="0.523419584484074" yxScale="-0.4302007359182396" yScale="0.9151311927107925" xOffset="389.1286085182237" yOffset="6.206690094550998"/>
+    <component base="component0" xScale="0.8532976780561867" xyScale="0.558805412925618" yxScale="-0.4232262681128574" yScale="0.9769987199235701" xOffset="220.9983532202691" yOffset="359.423221005182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Oisac-Regular/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

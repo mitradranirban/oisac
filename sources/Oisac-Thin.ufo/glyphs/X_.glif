@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="512"/>
+  <unicode hex="0058"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xScale="0.7556838010293722" xyScale="0.5437473951850043" yxScale="-0.4035234357961265" yScale="0.9118465811548407" xOffset="394.2256412327019" yOffset="5.316633002722663"/>
+    <component base="component0" xScale="0.6956952330555617" xyScale="-0.9366562507524151" yxScale="0.417006839121745" yScale="0.9295835504113943" xOffset="237.28583569235366" yOffset="430.21461555410383"/>
+    <component base="component0" xScale="0.8557530517075806" xyScale="-0.783899912614465" yxScale="0.3428799144821085" yScale="0.9313703974864185" xOffset="83.84018757279236" yOffset="51.057669034457135"/>
+    <component base="component0" xScale="0.8170067483582456" xyScale="0.5427553105608784" yxScale="-0.40522636592468564" yScale="0.9489371995762717" xOffset="215.27700445232475" yOffset="371.06534107591267"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Oisac-Regular/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

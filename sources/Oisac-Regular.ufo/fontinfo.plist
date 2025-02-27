@@ -3,11 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>819</integer>
+    <integer>820</integer>
+    <key>capHeight</key>
+    <integer>768</integer>
     <key>copyright</key>
     <string>Copyright (c) 2025, Dr Anirban Mitra</string>
     <key>descender</key>
-    <integer>-205</integer>
+    <integer>-204</integer>
     <key>familyName</key>
     <string>Oisac</string>
     <key>guidelines</key>
@@ -19,9 +21,9 @@
     <key>openTypeHeadCreated</key>
     <string>2025/01/26 14:46:30</string>
     <key>openTypeHheaAscender</key>
-    <integer>305</integer>
+    <integer>1230</integer>
     <key>openTypeHheaDescender</key>
-    <integer>0</integer>
+    <integer>-306</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
@@ -40,10 +42,20 @@
     <string>https://fonts.atipra.in</string>
     <key>openTypeNameVersion</key>
     <string>Version 0.100</string>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1230</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-306</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>anir</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1230</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>306</integer>
     <key>postscriptFontName</key>
-    <string>Oisac</string>
+    <string>Oisac-Regular</string>
     <key>postscriptFullName</key>
     <string>Oisac Regular</string>
     <key>postscriptUnderlinePosition</key>
@@ -53,7 +65,7 @@
     <key>postscriptWeightName</key>
     <string>Regular</string>
     <key>styleMapFamilyName</key>
-    <string>Oisac Regular</string>
+    <string>Oisac</string>
     <key>styleName</key>
     <string>Regular</string>
     <key>unitsPerEm</key>
@@ -62,5 +74,7 @@
     <integer>0</integer>
     <key>versionMinor</key>
     <integer>100</integer>
+    <key>xHeight</key>
+    <integer>512</integer>
   </dict>
 </plist>

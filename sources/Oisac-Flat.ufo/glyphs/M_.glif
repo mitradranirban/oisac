@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="512"/>
+  <unicode hex="004D"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0.715928" yScale="0.942509" xyScale="-0.94968" yxScale="0.429135" xOffset="231.722" yOffset="425.669"/>
+    <component base="component0" xScale="0.838233" yScale="0.953186" xyScale="0.545186" yxScale="-0.415755" xOffset="218.623" yOffset="369.303"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

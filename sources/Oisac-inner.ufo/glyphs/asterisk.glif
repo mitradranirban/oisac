@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="512"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" yScale="0.598563" xOffset="216" yOffset="159.363"/>
+    <component base="component0" yScale="0.637591" xOffset="216" yOffset="392.725"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="249.06" yOffset="350"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.45" xOffset="449.933" yOffset="350"/>
+    <component base="component0" xScale="0.815466" yScale="0.495993" xyScale="0.283689" yxScale="-0.404462" xOffset="419.36" yOffset="153.96"/>
+    <component base="component0" xScale="0.558153" yScale="0.514128" xyScale="-0.518039" yxScale="0.334562" xOffset="266.105" yOffset="438.631"/>
+    <component base="component0" xScale="0.781395" yScale="0.503086" xyScale="-0.423429" yxScale="0.313086" xOffset="62.9136" yOffset="172.708"/>
+    <component base="component0" xScale="0.692857" yScale="0.478694" xyScale="0.273794" yxScale="-0.343649" xOffset="193.676" yOffset="411.712"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

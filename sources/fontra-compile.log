@@ -1,0 +1,893 @@
+2025-01-31 15:41:37 INFO     loading project Oisac.designspace...
+2025-01-31 15:41:37 INFO     done loading Oisac.designspace
+2025-01-31 15:41:37 INFO     creating project temp.designspace...
+2025-01-31 15:41:37 INFO     done creating temp.designspace
+2025-01-31 15:41:37 DEBUG    reading .notdef
+2025-01-31 15:41:37 DEBUG    writing .notdef
+2025-01-31 15:41:37 DEBUG    reading A
+2025-01-31 15:41:37 DEBUG    writing A
+2025-01-31 15:41:37 DEBUG    reading B
+2025-01-31 15:41:37 DEBUG    writing B
+2025-01-31 15:41:37 DEBUG    reading C
+2025-01-31 15:41:37 DEBUG    writing C
+2025-01-31 15:41:37 DEBUG    reading D
+2025-01-31 15:41:37 DEBUG    writing D
+2025-01-31 15:41:37 DEBUG    reading E
+2025-01-31 15:41:37 DEBUG    writing E
+2025-01-31 15:41:37 DEBUG    reading F
+2025-01-31 15:41:37 DEBUG    writing F
+2025-01-31 15:41:37 DEBUG    reading G
+2025-01-31 15:41:37 DEBUG    writing G
+2025-01-31 15:41:37 DEBUG    reading H
+2025-01-31 15:41:37 DEBUG    writing H
+2025-01-31 15:41:37 DEBUG    reading I
+2025-01-31 15:41:37 DEBUG    writing I
+2025-01-31 15:41:37 DEBUG    reading J
+2025-01-31 15:41:37 DEBUG    writing J
+2025-01-31 15:41:37 DEBUG    reading K
+2025-01-31 15:41:37 DEBUG    writing K
+2025-01-31 15:41:37 DEBUG    reading L
+2025-01-31 15:41:37 DEBUG    writing L
+2025-01-31 15:41:37 DEBUG    reading M
+2025-01-31 15:41:37 DEBUG    writing M
+2025-01-31 15:41:37 DEBUG    reading N
+2025-01-31 15:41:37 DEBUG    writing N
+2025-01-31 15:41:37 DEBUG    reading O
+2025-01-31 15:41:37 DEBUG    writing O
+2025-01-31 15:41:37 DEBUG    reading P
+2025-01-31 15:41:37 DEBUG    writing P
+2025-01-31 15:41:37 DEBUG    reading Q
+2025-01-31 15:41:37 DEBUG    writing Q
+2025-01-31 15:41:37 DEBUG    reading R
+2025-01-31 15:41:37 DEBUG    writing R
+2025-01-31 15:41:37 DEBUG    reading S
+2025-01-31 15:41:37 DEBUG    writing S
+2025-01-31 15:41:37 DEBUG    reading T
+2025-01-31 15:41:37 DEBUG    writing T
+2025-01-31 15:41:37 DEBUG    reading U
+2025-01-31 15:41:37 DEBUG    writing U
+2025-01-31 15:41:37 DEBUG    reading V
+2025-01-31 15:41:37 DEBUG    writing V
+2025-01-31 15:41:37 DEBUG    reading W
+2025-01-31 15:41:37 DEBUG    writing W
+2025-01-31 15:41:37 DEBUG    reading X
+2025-01-31 15:41:37 DEBUG    writing X
+2025-01-31 15:41:37 DEBUG    reading Y
+2025-01-31 15:41:37 DEBUG    writing Y
+2025-01-31 15:41:37 DEBUG    reading Z
+2025-01-31 15:41:37 DEBUG    writing Z
+2025-01-31 15:41:37 DEBUG    reading asterisk
+2025-01-31 15:41:37 DEBUG    writing asterisk
+2025-01-31 15:41:37 DEBUG    reading at
+2025-01-31 15:41:37 DEBUG    writing at
+2025-01-31 15:41:37 DEBUG    reading colon
+2025-01-31 15:41:37 DEBUG    writing colon
+2025-01-31 15:41:37 DEBUG    reading comma
+2025-01-31 15:41:37 DEBUG    writing comma
+2025-01-31 15:41:37 DEBUG    reading component0
+2025-01-31 15:41:37 DEBUG    writing component0
+2025-01-31 15:41:37 DEBUG    reading eight
+2025-01-31 15:41:37 DEBUG    writing eight
+2025-01-31 15:41:37 DEBUG    reading equal
+2025-01-31 15:41:37 DEBUG    writing equal
+2025-01-31 15:41:37 DEBUG    reading exclam
+2025-01-31 15:41:37 DEBUG    writing exclam
+2025-01-31 15:41:37 DEBUG    reading five
+2025-01-31 15:41:37 DEBUG    writing five
+2025-01-31 15:41:37 DEBUG    reading four
+2025-01-31 15:41:37 DEBUG    writing four
+2025-01-31 15:41:37 DEBUG    reading greater
+2025-01-31 15:41:37 DEBUG    writing greater
+2025-01-31 15:41:37 DEBUG    reading hyphen
+2025-01-31 15:41:37 DEBUG    writing hyphen
+2025-01-31 15:41:37 DEBUG    reading less
+2025-01-31 15:41:37 DEBUG    writing less
+2025-01-31 15:41:37 DEBUG    reading nine
+2025-01-31 15:41:37 DEBUG    writing nine
+2025-01-31 15:41:37 DEBUG    reading one
+2025-01-31 15:41:37 DEBUG    writing one
+2025-01-31 15:41:37 DEBUG    reading period
+2025-01-31 15:41:37 DEBUG    writing period
+2025-01-31 15:41:37 DEBUG    reading plus
+2025-01-31 15:41:37 DEBUG    writing plus
+2025-01-31 15:41:37 DEBUG    reading question
+2025-01-31 15:41:37 DEBUG    writing question
+2025-01-31 15:41:37 DEBUG    reading quotedbl
+2025-01-31 15:41:37 DEBUG    writing quotedbl
+2025-01-31 15:41:37 DEBUG    reading quotesingle
+2025-01-31 15:41:37 DEBUG    writing quotesingle
+2025-01-31 15:41:37 DEBUG    reading semicolon
+2025-01-31 15:41:37 DEBUG    writing semicolon
+2025-01-31 15:41:37 DEBUG    reading seven
+2025-01-31 15:41:37 DEBUG    writing seven
+2025-01-31 15:41:37 DEBUG    reading six
+2025-01-31 15:41:37 DEBUG    writing six
+2025-01-31 15:41:37 DEBUG    reading slash
+2025-01-31 15:41:37 DEBUG    writing slash
+2025-01-31 15:41:37 DEBUG    reading space
+2025-01-31 15:41:37 DEBUG    writing space
+2025-01-31 15:41:37 DEBUG    reading three
+2025-01-31 15:41:37 DEBUG    writing three
+2025-01-31 15:41:37 DEBUG    reading two
+2025-01-31 15:41:37 DEBUG    writing two
+2025-01-31 15:41:37 DEBUG    reading zero
+2025-01-31 15:41:37 DEBUG    writing zero
+2025-01-31 15:41:37 INFO     loading project temp.designspace...
+2025-01-31 15:41:37 INFO     done loading temp.designspace
+2025-01-31 15:41:37 DEBUG    ufoLib UFO validation is disabled
+2025-01-31 15:41:37 INFO     Loading 3 DesignSpace source UFOs
+2025-01-31 15:41:37 DEBUG    Document needs a label for axis 'weight', user value '400.0'.
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph .notdef
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph .notdef
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph .notdef
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 10
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 11
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 12
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 13
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 14
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 15
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph .notdef, component 16
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph A
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph A
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph A
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph A, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph B
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph B
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph B
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph B, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph C
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph C
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph C
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph C, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph D
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph D
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph D
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph D, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph D, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph D, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph D, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph D, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph E
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph E
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph E
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph E, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph F
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph F
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph F
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph F, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph G
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph G
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph G
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph G, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph H
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph H
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph H
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph H, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph I
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph I
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph I
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph I, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph J
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph J
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph J
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph J, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph J, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph J, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph J, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph J, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph K
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph K
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph K
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph K, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph K, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph K, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph K, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph K, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph L
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph L
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph L
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph L, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph L, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph L, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph L, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph L, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph M
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph M
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph M
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph M, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph N
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph N
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph N
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph N, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph O
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph O
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph O
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph O, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph P
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph P
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph P
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph P, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph Q
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph Q
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph Q
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Q, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph R
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph R
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph R
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph R, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph S
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph S
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph S
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph S, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph T
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph T
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph T
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph T, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph T, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph T, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph T, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph T, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph U
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph U
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph U
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph U, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph V
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph V
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph V
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph V, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph V, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph V, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph V, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph V, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph W
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph W
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph W
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph W, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph X
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph X
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph X
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph X, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph X, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph X, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph X, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph X, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph Y
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph Y
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph Y
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Y, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Y, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Y, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Y, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph Z
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph Z
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph Z
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph Z, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph asterisk
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph asterisk
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph asterisk
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph asterisk, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph at
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 1, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 2, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 3, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 4, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 5
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 5, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 6
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 6, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 7
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 7, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 8
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 8, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph at, contour 9
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph at, contour 9, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph at
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph at
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph colon
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph colon
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph colon
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph colon, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph colon, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph colon, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph comma
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph comma
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph comma
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph comma, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph comma, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph component0
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph component0, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph component0, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph component0
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph component0
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph eight
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph eight
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph eight
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph eight, component 10
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph equal
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph equal
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph equal
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph equal, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph equal, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph equal, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph exclam
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph exclam
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph exclam
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph exclam, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph exclam, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph exclam, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph five
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph five
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph five
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph five, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph four
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph four
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph four
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph four, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph greater
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph greater
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph greater
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph greater, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph greater, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph greater, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph hyphen
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph hyphen
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph hyphen
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph hyphen, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph hyphen, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph less
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph less
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph less
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph less, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph less, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph less, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph nine
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph nine
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph nine
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph nine, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph one
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph one
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph one
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph one, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph one, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph one, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph period
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph period
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph period
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph period, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph period, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph plus
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph plus, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph plus, contour 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 1, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph plus, contour 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 2, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph plus, contour 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 3, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph plus, contour 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph plus, contour 4, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph plus
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph plus
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph question
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph question
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph question
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph question, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph quotedbl
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph quotedbl, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph quotedbl, contour 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 1, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph quotedbl, contour 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotedbl, contour 2, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph quotedbl
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph quotedbl
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph quotesingle
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph quotesingle, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph quotesingle, contour 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph quotesingle, contour 1, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph quotesingle
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph quotesingle
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph semicolon
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph semicolon
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph semicolon
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph semicolon, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph semicolon, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph semicolon, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph seven
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph seven
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph seven
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph seven, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph seven, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph seven, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph seven, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph seven, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph six
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph six
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph six
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph six, component 9
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph slash
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph slash
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph slash
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph slash, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph slash, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph slash, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph space
+2025-01-31 15:41:37 DEBUG    All fonts had same number of points in glyph space, contour 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 0
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 1
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 2
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 3
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 4
+2025-01-31 15:41:37 DEBUG    All fonts had same point type in glyph space, contour 0, point 5
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph space
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph space
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph three
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph three
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph three
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph three, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph two
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph two
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph two
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph two, component 8
+2025-01-31 15:41:37 DEBUG    All fonts had same number of contours in glyph zero
+2025-01-31 15:41:37 DEBUG    All fonts had same anchors in glyph zero
+2025-01-31 15:41:37 DEBUG    All fonts had same number of components in glyph zero
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 0
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 1
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 2
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 3
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 4
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 5
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 6
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 7
+2025-01-31 15:41:37 DEBUG    All fonts had same base glyph in glyph zero, component 8
+2025-01-31 15:41:37 INFO     Building variable fonts Oisac-VF.ttf
+2025-01-31 15:41:37 DEBUG    Document needs a label for axis 'weight', user value '400.0'.
+2025-01-31 15:41:37 INFO     Features are compatible across masters; building later
+2025-01-31 15:41:37 INFO     Pre-processing glyphs
+2025-01-31 15:41:37 INFO     Running interpolatable DecomposeComponentsIFilter
+2025-01-31 15:41:37 DEBUG    Gathering all locations from component glyphs: asterisk
+2025-01-31 15:41:37 DEBUG    Gathering all locations from component glyphs: space
+2025-01-31 15:41:37 DEBUG    Gathering all locations from component glyphs: component0
+2025-01-31 15:41:37 DEBUG    Took 0.001s to run DecomposeComponentsIFilter on 1 glyph
+2025-01-31 15:41:37 INFO     New spline lengths: 
+2025-01-31 15:41:37 INFO     Building OpenType tables for Oisac-Regular
+2025-01-31 15:41:37 INFO     Building OpenType tables for Oisac-Regular
+2025-01-31 15:41:37 INFO     Building OpenType tables for Oisac-Regular
+2025-01-31 15:41:37 INFO     Building variable font: temp-VF
+2025-01-31 15:41:37 DEBUG    Document needs a label for axis 'weight', user value '400.0'.
+2025-01-31 15:41:37 INFO     Axes:
+[{'axisLabels': [],
+  'axisOrdering': None,
+  'default': 400.0,
+  'hidden': False,
+  'labelNames': {'en': 'Weight'},
+  'map': [],
+  'maximum': 900.0,
+  'minimum': 100.0,
+  'name': 'weight',
+  'tag': 'wght'}]
+2025-01-31 15:41:37 INFO     Internal master locations:
+[{'weight': 100.0}, {'weight': 400.0}, {'weight': 900.0}]
+2025-01-31 15:41:37 INFO     Internal axis supports:
+{'weight': [100.0, 400.0, 900.0]}
+2025-01-31 15:41:37 INFO     Normalized master locations:
+[{'weight': -1.0}, {'weight': 0.0}, {'weight': 1.0}]
+2025-01-31 15:41:37 INFO     Index of base master: 1
+2025-01-31 15:41:37 INFO     Building variable font
+2025-01-31 15:41:37 INFO     Loading master fonts
+2025-01-31 15:41:37 INFO     Generating fvar
+2025-01-31 15:41:37 INFO     Building variations tables
+2025-01-31 15:41:37 INFO     Generating avar
+2025-01-31 15:41:37 INFO     No need for avar
+2025-01-31 15:41:37 INFO     Generating MVAR
+2025-01-31 15:41:37 INFO     Generating HVAR
+2025-01-31 15:41:37 INFO     Generating gvar
+2025-01-31 15:41:37 DEBUG    building gvar for glyph '.notdef'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'space'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'A'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'B'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'C'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'D'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'E'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'F'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'G'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'H'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'I'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'J'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'K'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'L'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'M'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'N'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'O'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'P'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'Q'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'R'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'S'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'T'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'U'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'V'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'W'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'X'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'Y'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'Z'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'asterisk'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'at'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'colon'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'comma'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'component0'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'eight'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'equal'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'exclam'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'five'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'four'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'greater'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'hyphen'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'less'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'nine'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'one'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'period'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'plus'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'question'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'quotedbl'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'quotesingle'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'semicolon'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'seven'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'six'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'slash'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'three'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'two'
+2025-01-31 15:41:37 DEBUG    building gvar for glyph 'zero'
+2025-01-31 15:41:37 INFO     Merging TT hinting
+2025-01-31 15:41:37 DEBUG    Took 0.028s to merge fonts to variable
+2025-01-31 15:41:37 DEBUG    Document needs a label for axis 'weight', user value '400.0'.
+2025-01-31 15:41:37 INFO     Compiling variable features for temp-VF
+2025-01-31 15:41:37 DEBUG    No kerning data; skipped
+2025-01-31 15:41:37 DEBUG    No mark-attaching anchors found; skipped
+2025-01-31 15:41:37 DEBUG    No features to be generated; skipped
+2025-01-31 15:41:37 INFO     Saving Oisac-VF.ttf
+2025-01-31 15:41:37 DEBUG    Compiling 'name' table
+2025-01-31 15:41:37 DEBUG    Writing 'name' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'fvar' table
+2025-01-31 15:41:37 DEBUG    Writing 'fvar' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'glyf' table
+2025-01-31 15:41:37 DEBUG    Writing 'glyf' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'maxp' table
+2025-01-31 15:41:37 DEBUG    Writing 'maxp' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'loca' table
+2025-01-31 15:41:37 DEBUG    Writing 'loca' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'head' table
+2025-01-31 15:41:37 DEBUG    Writing 'head' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'hmtx' table
+2025-01-31 15:41:37 DEBUG    Writing 'hmtx' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'hhea' table
+2025-01-31 15:41:37 DEBUG    Writing 'hhea' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'OS/2' table
+2025-01-31 15:41:37 DEBUG    Writing 'OS/2' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'cmap' table
+2025-01-31 15:41:37 DEBUG    Writing 'cmap' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'post' table
+2025-01-31 15:41:37 DEBUG    Writing 'post' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'HVAR' table
+2025-01-31 15:41:37 DEBUG    Writing 'HVAR' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'STAT' table
+2025-01-31 15:41:37 DEBUG    Writing 'STAT' table to disk
+2025-01-31 15:41:37 DEBUG    Compiling 'gvar' table
+2025-01-31 15:41:37 DEBUG    Writing 'gvar' table to disk

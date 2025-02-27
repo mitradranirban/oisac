@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+  <advance width="512"/>
+  <unicode hex="003A"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" yScale="0.25096" xOffset="216" yOffset="102.025"/>
+    <component base="component0" yScale="0.25096" xOffset="223" yOffset="464"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

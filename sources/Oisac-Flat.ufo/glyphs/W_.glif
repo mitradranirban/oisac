@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="512"/>
+  <unicode hex="0057"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0.792179" yScale="0.976074" xyScale="0.558277" yxScale="-0.392912" xOffset="390.499" yOffset="-20.7058"/>
+    <component base="component0" xScale="0.972779" yScale="0.96268" xyScale="-0.810252" yxScale="0.38977" xOffset="61.7429" yOffset="37.3974"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="512"/>
+  <unicode hex="0048"/>
+  <guideline x="11" y="795" angle="0" name="TOP"/>
+  <outline>
+    <component base="component0" xOffset="11" yOffset="-2"/>
+    <component base="component0" xOffset="10" yOffset="389"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0" xyScale="1" yxScale="-0.5" yScale="0" xOffset="249.05990221686073" yOffset="350"/>
+    <component base="component0" xScale="0" xyScale="1" yxScale="-0.45" yScale="0" xOffset="449.9330351307241" yOffset="350"/>
+    <component base="space"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Oisac-Regular/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

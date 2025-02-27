@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="2">
+  <advance width="512"/>
+  <unicode hex="0037"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="453" yOffset="755"/>
+    <component base="component0" xScale="0" yScale="0" xyScale="1" yxScale="-0.5" xOffset="257" yOffset="755"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

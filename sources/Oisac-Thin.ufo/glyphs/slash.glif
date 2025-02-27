@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance width="512"/>
+  <unicode hex="002F"/>
+  <outline>
+    <component base="component0" xScale="0.8321874444898056" xyScale="-1.0063976715957144" yxScale="0.4988216668659867" yScale="0.9987983531164109" xOffset="217.85384812248046" yOffset="425.77100503299835"/>
+    <component base="component0" xScale="1.121710425868937" xyScale="-0.833362554512538" yxScale="0.4494427149610172" yScale="0.9901381555943254" xOffset="29.903283251571594" yOffset="33.12059782897793"/>
+    <component base="space"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Oisac-Regular/public.default</key>
+        <string>default</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="512"/>
+  <unicode hex="0056"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="420" yOffset="-5"/>
+    <component base="component0" xOffset="419" yOffset="396"/>
+    <component base="component0" xScale="0.868845" yScale="0.959285" xyScale="0.548674" yxScale="-0.430938" xOffset="386.396" yOffset="-25.4448"/>
+    <component base="component0" xScale="0.940564" yScale="0.958762" xyScale="0.548375" yxScale="-0.466509" xOffset="211" yOffset="362"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

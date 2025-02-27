@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="component0" format="2">
+  <advance width="80"/>
+  <outline>
+    <contour>
+      <point x="-10" y="345" type="line"/>
+      <point x="39" y="392" type="line"/>
+      <point x="90" y="345" type="line"/>
+      <point x="90" y="61" type="line"/>
+      <point x="40" y="2" type="line"/>
+      <point x="-10" y="62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>xyz.fontra.layer-names</key>
+      <dict>
+        <key>Oisac-Regular/flat#1</key>
+        <string>flat</string>
+        <key>Oisac-Regular/peak#1</key>
+        <string>peak</string>
+        <key>Oisac-Regular/public.default</key>
+        <string>thin</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

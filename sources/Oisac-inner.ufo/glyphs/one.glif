@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="2">
+  <advance width="512"/>
+  <unicode hex="0031"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-8"/>
+    <component base="component0" xOffset="216" yOffset="2"/>
+    <component base="component0" xOffset="216" yOffset="392"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+  <advance width="512"/>
+  <unicode hex="0021"/>
+  <outline>
+    <component base="space" xOffset="3" yOffset="-18"/>
+    <component base="component0" yScale="0.23978" xOffset="216" yOffset="-100.199"/>
+    <component base="component0" yScale="2.00617" xOffset="216" yOffset="0.59854"/>
+  </outline>
+  <lib>
+    <dict/>
+  </lib>
+</glyph>

@@ -1,7 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
+    <axis tag="ANGL" name="Angle" minimum="-1" maximum="1" default="1"/>
+  </axes>
   <sources>
-    <source filename="Oisac-Regular.ufo" familyname="Oisac" stylename="Regular"/>
+    <source filename="Oisac-Thin.ufo" name="::fontra000-6ab51c2f" familyname="Oisac" stylename="Thin">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Angle" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Oisac-inner.ufo" name="ca52573c" familyname="Oisac" stylename="indrawn">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Angle" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Oisac-Flat.ufo"   familyname="Oisac" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Angle" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Oisac-Regular.ufo" name="::fontra001-f90e0e2e" familyname="Oisac" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Angle" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Oisac-Bold.ufo" name="::fontra002-0b45e472" familyname="Oisac" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Angle" xvalue="1"/>
+      </location>
+    </source>
   </sources>
   <lib>
     <dict>

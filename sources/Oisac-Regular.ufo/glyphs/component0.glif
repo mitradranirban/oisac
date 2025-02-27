@@ -1,23 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="component0" format="2">
-  <advance width="60"/>
+  <advance width="80"/>
   <outline>
     <contour>
-      <point x="0" y="345" type="line"/>
-      <point x="30" y="392" type="line"/>
-      <point x="60" y="345" type="line"/>
-      <point x="60" y="61" type="line"/>
-      <point x="31" y="2" type="line"/>
-      <point x="0" y="62" type="line"/>
+      <point x="9" y="346" type="line"/>
+      <point x="40" y="389" type="line"/>
+      <point x="71" y="346" type="line"/>
+      <point x="71" y="57" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="9" y="61" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.black-foundry.glyph-designspace</key>
+      <dict>
+        <key>axes</key>
+        <array>
+          <dict>
+            <key>default</key>
+            <integer>100</integer>
+            <key>maximum</key>
+            <integer>100</integer>
+            <key>minimum</key>
+            <integer>10</integer>
+            <key>name</key>
+            <string>width</string>
+          </dict>
+        </array>
+      </dict>
       <key>xyz.fontra.layer-names</key>
       <dict>
-        <key>Oisac-Regular/flat#1</key>
+        <key>Oisac-Regular/flat</key>
         <string>flat</string>
-        <key>Oisac-Regular/peak#1</key>
+        <key>Oisac-Regular/peak</key>
         <string>peak</string>
         <key>Oisac-Regular/public.default</key>
         <string>thin</string>
