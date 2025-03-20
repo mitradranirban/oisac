@@ -28,13 +28,7 @@
                     font-variation-settings: "wght" 700;   
                 }
             }
-            p{
-                font-family: "Oisac Regular";
-                font-size: 3rem;
-                font-variation-settings: "wght" 400;
-                text-align: center;
-                animation: grow 4s infinite alternate
-            }
+
             @font-palette-values --red {
 				font-family: Oisac Regular;
 				base-palette: 1
@@ -90,6 +84,14 @@
     font-palette: --blue;
   } 
 }
+@keyframes morph {
+    0%{
+        font-variation-settings: "ANGL" 1;
+    }
+    100%{
+        font-variation-settings: "ANGL" -1;
+    }
+}
   .colorchange {
   font-family: "Oisac Regular";
   font-size: 4rem;
@@ -97,18 +99,55 @@
   text-align: center;
   animation: animate-palette 4s infinite alternate linear;
 }
-
+       p {
+                font-family: "Oisac Regular";
+                font-size: 3rem;
+                font-variation-settings: "wght" 400;
+                text-align: center;
+                animation: grow 4s infinite alternate
+            }
+        #datetime{
+                font-family: "Oisac Regular";
+                font-size: 3rem;
+                font-variation-settings: "wght" 400;
+                text-align: center;
+                animation: morph 4s infinite alternate
+            }
 
         </style>
+      
     </head>
     <body>
         <h1> <span class="colorchange"> OISAC </span> VARIABLE COLOR TYPEFACE WITH BACKLIT LED CLOCK VIBE </h1>
-        <p> 1ST JANUARY 1978 12:34:56 AM</p>
-        <p><span class="blue">QUICK </span><span class="mix1">BROWN </span> <span class="red">FOX</span> 
+        <div id="datetime"></div>
+        <script>
+function updateDateTime() {
+  const now = new Date();
+
+  const options = {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hour12: false
+  };
+
+  const formattedDateTime = now.toLocaleDateString('en-US', options).toUpperCase();
+
+  document.getElementById('datetime').textContent = formattedDateTime;
+}
+
+updateDateTime(); // Initial update
+setInterval(updateDateTime, 1000); // Update every second
+</script>
+        <p><span class="blue ">QUICK </span><span class="mix1">BROWN </span> <span class="red">FOX</span> 
             <span class="mix2">JUMPS</span>  <span class="mix3">OVER</span> <span class="green">THE </span><span class="mix5">LAZY</span>
             <span class="mix4">DOG</span></p>
          
        
-
+<p> To download this color variable webfont <a href="https://fonts.atipra.in/tiny/oisac.html">visit our website</a></p>
     </body>
 </html>
